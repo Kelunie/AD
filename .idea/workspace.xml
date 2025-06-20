@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d24e3cbd-b007-4783-bba9-8255e866be9c" name="Changes" comment="First one">
-      <changelist_data name="Kelunie" email="" automatic="false" />
-      <change afterPath="$PROJECT_DIR$/Ejemplos/LeerCSV.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejemplos/LeerExcel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datos/csv/MOCK_DATA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datos/excel/MOCK_DATA.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datos/link para generar archivos de datos.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d24e3cbd-b007-4783-bba9-8255e866be9c" name="Changes" comment="How to read xlsx, xls or csv">
+      <change beforePath="$PROJECT_DIR$/Ejemplos/LeerCSV.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/LeerCSV.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplos/LeerExcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/LeerExcel.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +28,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Kelunie/AD.git",
+    "accountId": "3e715473-37d3-4be4-b15a-18065ee0320e"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -127,8 +128,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1750435463261</updated>
-      <workItem from="1750435464026" duration="4687000" />
+      <workItem from="1750435464026" duration="5038000" />
     </task>
+    <task id="LOCAL-00001" summary="How to read xlsx, xls or csv">
+      <option name="closed" value="true" />
+      <created>1750440376842</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750440376842</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,7 +157,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First one" />
-    <option name="LAST_COMMIT_MESSAGE" value="First one" />
+    <MESSAGE value="How to read xlsx, xls or csv" />
+    <option name="LAST_COMMIT_MESSAGE" value="How to read xlsx, xls or csv" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AD$LeerExcel.coverage" NAME="LeerExcel Coverage Results" MODIFIED="1750439298247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ejemplos" />

@@ -79,7 +79,7 @@ def menu_principal():
     print("=" * 50)
 
     ruta = input("\nIngrese la ruta del archivo CSV (o Enter para default): ").strip()
-    archivo_default = 'D:/gersan/AD/datos/csv/MOCK_DATA.csv'
+    archivo_default = 'D:/DATOS/AD/datos/csv/MOCK_DATA.csv'
 
     ruta_archivo = ruta if ruta else archivo_default
     print(f"\nIntentando leer: {ruta_archivo}")

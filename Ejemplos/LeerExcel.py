@@ -71,7 +71,7 @@ def menu_principal():
 
     # solicitamos la informacion de la ruta a la persona
     ruta = input("\nIngrese la ruta del archivo Excel (o Enter para default):\nFormato por defecto 'D:/ruta/de/tu/archivo.xlsx' ").strip()
-    archivo_default = 'D:/gersan/AD/datos/excel/MOCK_DATA.xlsx'
+    archivo_default = 'D:/DATOS/AD/datos/excel/MOCK_DATA.xlsx'
 
     ruta_archivo = ruta if ruta else archivo_default
     print(f"\nIntentando leer: {ruta_archivo}")
