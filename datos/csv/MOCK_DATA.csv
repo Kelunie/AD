@@ -1,0 +1,1001 @@
+Country,GDP,Inflation Rate,Unemployment Rate,Interest Rate,Exchange Rate,Stock Market Index,Labor Force Participation Rate,Government Debt,Trade Balance
+Egypt,Pound,-5.16,26.36,5.49,3.9561,5900.1,32.0,Zloty,Rial
+Greece,Euro,-0.38,3.6,0.56,1.8437,2848.0,1.33,Lempira,Krona
+Portugal,Euro,7.54,13.71,13.77,8.9366,4378.93,11.14,Ruble,Ariary
+Peru,Sol,3.66,3.36,15.77,8.4732,7165.59,77.93,Ruble,Real
+United Kingdom,Pound,-3.93,5.98,12.08,4.8939,739.94,52.41,Ruble,Euro
+Japan,Yen,8.54,7.19,0.46,9.9131,3755.21,9.45,Zloty,Yuan Renminbi
+Indonesia,Rupiah,4.44,5.67,0.67,1.7471,8213.29,32.0,Ringgit,Ruble
+China,Yuan Renminbi,-5.48,24.07,16.4,0.4588,8825.84,3.05,Peso,Dollar
+United States,Dollar,3.73,26.58,16.2,6.6211,3926.29,40.68,Hryvnia,Tenge
+Chile,Peso,5.87,9.07,2.93,7.6198,397.71,28.81,Peso,Koruna
+Greece,Euro,6.92,22.95,14.33,0.1355,8201.33,6.98,Peso,Dollar
+Slovenia,Euro,8.61,3.05,18.49,9.2486,7830.31,49.04,Yuan Renminbi,Yuan Renminbi
+Indonesia,Rupiah,9.4,21.3,4.88,7.2033,4142.13,70.18,Zloty,Yuan Renminbi
+Indonesia,Rupiah,8.02,1.46,13.17,4.8687,4755.89,60.39,Rupiah,Baht
+Japan,Yen,-1.6,19.29,10.69,8.4623,6790.04,80.93,Rupiah,Euro
+Philippines,Peso,6.05,13.37,6.9,1.3462,6143.69,30.2,Bolivar,Zloty
+Indonesia,Rupiah,-7.11,12.94,4.12,5.3336,2381.39,51.86,Peso,Zloty
+Madagascar,Ariary,4.72,26.61,6.16,6.73,2424.15,36.76,Yuan Renminbi,Sol
+Mexico,Peso,5.52,18.69,3.04,6.0797,6592.27,82.32,Gourde,Euro
+Thailand,Baht,-3.04,3.88,5.41,8.3809,8873.47,48.41,Peso,Kuna
+Lebanon,Pound,6.66,6.64,2.51,8.7623,5703.48,6.02,Euro,Real
+Sweden,Krona,-9.93,11.78,0.13,6.9206,6338.01,41.1,Pound,Baht
+South Africa,Rand,-4.42,5.74,14.24,6.1685,5092.43,7.63,Dollar,Yen
+France,Euro,1.43,8.49,4.43,7.7763,5126.66,72.15,Peso,Rupiah
+Poland,Zloty,9.43,29.97,2.03,7.0883,3999.57,74.52,Zloty,Peso
+Indonesia,Rupiah,3.77,4.09,7.13,3.2505,2315.8,97.87,Peso,Euro
+Jordan,Dinar,8.07,25.68,18.1,0.0146,6630.27,31.11,Euro,Yuan Renminbi
+China,Yuan Renminbi,-5.89,7.93,0.44,0.8005,9328.95,90.55,Rupiah,Dram
+China,Yuan Renminbi,-0.71,0.64,2.7,6.4459,8120.81,65.82,Peso,Rupiah
+China,Yuan Renminbi,-5.12,19.24,10.2,9.7384,282.19,31.38,Ruble,Dollar
+Brazil,Real,-2.4,5.57,11.75,3.5406,1223.61,79.65,Zloty,Euro
+Greece,Euro,0.81,25.37,15.75,3.3815,4587.9,53.7,Rupiah,Yuan Renminbi
+Democratic Republic of the Congo,Franc,-2.93,23.33,3.69,4.7563,4214.74,34.58,Ruble,Real
+Kosovo,Euro,7.33,21.72,6.93,1.1335,5232.7,23.82,Yuan Renminbi,Yuan Renminbi
+Russia,Ruble,4.4,14.27,0.77,1.7172,1842.57,64.2,Riels,Lek
+China,Yuan Renminbi,-8.15,20.7,18.65,8.4009,7764.83,60.52,Ruble,Yuan Renminbi
+Indonesia,Rupiah,-2.1,4.12,12.88,2.0911,8482.46,38.59,Rupiah,Franc
+Russia,Ruble,6.15,19.02,13.58,9.8533,2187.73,47.71,Krona,Dollar
+Venezuela,Bolivar,0.43,17.36,3.06,7.8197,480.04,16.62,Rupiah,Yuan Renminbi
+Guatemala,Quetzal,-4.27,15.43,15.86,4.1228,9286.42,40.61,Yuan Renminbi,Yuan Renminbi
+Indonesia,Rupiah,0.02,29.33,15.53,7.8288,1602.95,53.26,Euro,Yuan Renminbi
+Kosovo,Euro,6.17,13.63,13.94,9.3198,1874.36,93.15,Yuan Renminbi,Yuan Renminbi
+China,Yuan Renminbi,2.71,22.03,10.16,5.5738,2260.96,5.82,Yuan Renminbi,Real
+Russia,Ruble,0.51,28.25,13.45,5.1313,5641.82,22.13,Euro,Franc
+China,Yuan Renminbi,-5.74,7.3,19.09,7.2344,7581.99,96.01,Krona,Ruble
+Canada,Dollar,5.2,14.07,16.83,0.9599,3332.98,67.28,Peso,Kina
+Costa Rica,Colon,2.87,16.92,15.16,5.6748,8426.22,3.52,Dirham,Krona
+Peru,Sol,-7.89,10.34,10.57,9.9501,6865.15,93.8,Ruble,Euro
+Brazil,Real,-1.47,14.11,16.96,8.2715,6377.06,26.01,Yuan Renminbi,Zloty
+Ireland,Euro,3.18,14.8,19.28,5.53,1810.5,56.87,Dollar,Rupiah
+China,Yuan Renminbi,-5.48,16.62,0.13,0.0138,8698.88,54.92,Yuan Renminbi,Real
+Russia,Ruble,-6.13,21.73,7.79,4.1591,7512.87,21.42,Euro,Hryvnia
+Czech Republic,Koruna,-0.03,16.7,13.44,2.9924,2852.33,23.76,Rupiah,Yuan Renminbi
+Indonesia,Rupiah,-4.93,3.1,10.54,2.8789,2571.04,55.45,Litas,Shilling
+Poland,Zloty,-5.08,11.74,0.62,6.2338,4193.11,99.98,Rupiah,Peso
+China,Yuan Renminbi,2.61,25.06,11.38,9.6274,761.81,67.8,Zloty,Yen
+Poland,Zloty,3.68,27.95,3.76,7.1731,6084.2,85.87,Euro,Quetzal
+Russia,Ruble,5.38,4.18,16.62,8.2901,5488.46,31.82,Rand,Metical
+Sweden,Krona,-4.65,5.45,18.38,5.484,8463.22,25.87,Euro,Euro
+Uzbekistan,Som,-6.38,27.89,19.32,6.6987,593.22,32.59,Rupiah,Yuan Renminbi
+Lithuania,Litas,-8.7,17.15,4.4,3.2558,8227.47,24.26,Hryvnia,Rupiah
+South Africa,Rand,-3.35,8.52,16.51,2.6885,1093.96,9.31,Rupiah,Peso
+Zambia,Kwacha,-6.4,7.89,5.81,4.7982,3617.17,60.28,Yen,Yen
+Cuba,Peso,-3.39,7.4,17.67,6.2937,7807.5,75.39,Krona,Rufiyaa
+Honduras,Lempira,5.57,16.86,14.7,6.043,1120.03,0.6,Yuan Renminbi,Yen
+United States,Dollar,-8.84,17.15,11.36,6.8559,8977.46,18.56,Dollar,Rupiah
+Poland,Zloty,7.09,18.46,6.16,9.9655,5684.89,15.84,Rupiah,Gourde
+Mozambique,Metical,4.43,6.45,18.05,6.049,1942.05,62.1,Rupiah,Peso
+Thailand,Baht,0.3,28.23,16.55,3.4275,4642.8,42.46,Sol,Ruble
+Czech Republic,Koruna,4.93,8.66,4.57,6.5182,386.51,90.32,Real,Colon
+Portugal,Euro,1.62,22.14,11.11,6.7197,5570.14,60.94,Yuan Renminbi,Pa'anga
+Sweden,Krona,-6.45,11.99,18.87,9.1264,3780.68,10.1,Yuan Renminbi,Dollar
+Portugal,Euro,6.34,2.36,12.23,1.9545,7488.02,34.55,Rial,Shekel
+China,Yuan Renminbi,-7.29,10.29,12.83,9.1977,4289.24,26.8,Dollar,Peso
+Indonesia,Rupiah,9.12,16.47,9.87,5.8553,6833.21,6.8,Euro,Yuan Renminbi
+Madagascar,Ariary,-7.77,15.75,18.51,0.6612,8080.62,62.01,Yuan Renminbi,Euro
+United States,Dollar,2.55,7.27,7.83,1.3791,8365.56,96.06,Ringgit,Forint
+Belarus,Ruble,9.45,17.05,0.43,1.594,5534.65,3.42,Yuan Renminbi,Peso
+Malta,Euro,-6.83,10.31,4.53,9.3905,3457.39,31.27,Koruna,Naira
+Burkina Faso,Franc,5.05,7.67,0.37,9.7959,6984.15,87.35,Dollar,Krona
+Tuvalu,Dollar,-0.36,0.84,17.8,2.8934,4645.19,42.13,Krona,Dollar
+Russia,Ruble,-6.79,16.52,17.41,4.7791,5718.52,31.51,Yuan Renminbi,Yuan Renminbi
+Poland,Zloty,-8.82,8.24,8.53,2.9068,8649.47,96.67,Yuan Renminbi,Dollar
+Czech Republic,Koruna,1.36,28.39,14.34,7.6717,6071.92,39.15,Yuan Renminbi,Peso
+Philippines,Peso,-2.24,23.65,17.57,9.4032,8111.55,63.15,Rupiah,Bolivar
+Lithuania,Litas,3.59,10.28,5.69,0.7931,7247.87,92.03,Yuan Renminbi,Euro
+Russia,Ruble,-0.87,24.48,5.74,2.8946,1609.93,13.74,Hryvnia,Rupee
+Indonesia,Rupiah,-2.75,5.24,14.81,6.9408,8870.76,58.3,Naira,Ruble
+China,Yuan Renminbi,-8.45,10.49,17.05,6.4385,634.02,97.99,Ruble,Yuan Renminbi
+China,Yuan Renminbi,-9.17,9.04,14.8,7.0311,1530.32,58.39,Krone,Euro
+Czech Republic,Koruna,7.82,16.83,11.57,4.9208,9655.18,57.25,Euro,Euro
+Peru,Sol,3.34,24.88,2.11,8.5621,8434.28,45.48,Yuan Renminbi,Ruble
+Portugal,Euro,8.62,17.77,15.34,6.7051,7563.62,21.46,Hryvnia,Dong
+Portugal,Euro,0.09,14.15,7.51,1.6259,4317.08,21.83,Dinar,Zloty
+Poland,Zloty,-9.61,25.05,3.57,8.3192,7854.62,50.73,Dollar,Denar
+Poland,Zloty,-4.46,17.23,11.21,6.3054,9388.04,38.79,Peso,Ruble
+Indonesia,Rupiah,1.01,28.62,3.62,9.7937,2421.62,50.84,Ruble,Rupiah
+Philippines,Peso,6.2,21.7,11.59,0.2091,4682.78,39.69,Peso,Euro
+Croatia,Kuna,7.09,13.85,6.02,7.6665,3273.69,72.73,Yuan Renminbi,Yuan Renminbi
+Macedonia,Denar,1.18,8.27,6.28,2.4761,1600.19,81.26,Yuan Renminbi,Euro
+Russia,Ruble,3.63,17.67,17.55,0.5522,9819.75,5.62,Baht,Lempira
+Northern Mariana Islands,Dollar,3.0,1.1,2.96,2.3595,860.87,27.15,Peso,Yuan Renminbi
+China,Yuan Renminbi,3.61,22.4,0.18,4.5504,4464.93,96.96,Yuan Renminbi,Krona
+Nigeria,Naira,0.98,8.61,16.13,5.034,7589.22,22.39,Yuan Renminbi,Real
+Mexico,Peso,3.88,7.74,1.87,4.9483,1574.27,16.59,Euro,Peso
+Ukraine,Hryvnia,2.03,1.28,1.41,4.2643,625.09,71.88,Yuan Renminbi,Koruna
+Indonesia,Rupiah,3.44,27.78,13.9,9.4127,9882.38,93.09,Yuan Renminbi,Yuan Renminbi
+Russia,Ruble,1.69,3.98,6.25,3.8685,1615.06,60.58,Zloty,Hryvnia
+China,Yuan Renminbi,8.35,27.18,19.91,7.0224,8602.84,95.08,Peso,Guarani
+China,Yuan Renminbi,-8.78,26.44,3.24,6.9406,9731.04,81.84,Yuan Renminbi,Rupiah
+Indonesia,Rupiah,-8.63,28.14,9.17,5.5854,8430.06,1.85,Franc,Euro
+China,Yuan Renminbi,8.5,21.58,0.03,8.7295,6519.94,8.84,Yen,Rupee
+China,Yuan Renminbi,6.92,9.16,19.99,4.2953,1936.85,82.21,Peso,Franc
+Philippines,Peso,-4.83,26.49,9.44,0.8516,8094.43,93.87,Ruble,Euro
+China,Yuan Renminbi,1.3,0.49,18.2,4.4778,2647.2,92.87,Euro,Yen
+Greece,Euro,-6.59,26.36,0.61,4.2342,7929.5,52.44,Sol,Rupiah
+China,Yuan Renminbi,6.13,0.88,16.6,7.1435,8925.97,62.09,Yuan Renminbi,Real
+Thailand,Baht,-1.71,22.52,14.75,5.2029,7360.03,73.59,Dollar,Yuan Renminbi
+Colombia,Peso,0.4,5.76,17.69,6.7609,5042.93,13.86,Yuan Renminbi,Naira
+Sweden,Krona,-5.31,14.53,16.25,9.9812,6347.23,92.47,Zloty,Sol
+Japan,Yen,-6.83,27.99,13.61,0.4514,3388.51,21.45,Real,Real
+Peru,Sol,-6.76,12.26,4.87,4.7553,2177.6,65.04,Kyat,Rupiah
+China,Yuan Renminbi,9.83,15.63,3.92,4.6474,6689.85,87.81,Yuan Renminbi,Pound
+Canada,Dollar,-7.47,23.48,0.37,6.7905,6488.89,52.21,Rupiah,Yuan Renminbi
+China,Yuan Renminbi,8.48,16.01,6.97,4.3738,2846.36,59.16,Zloty,Ruble
+China,Yuan Renminbi,9.19,17.9,17.89,8.207,3872.14,72.04,Yuan Renminbi,Ruble
+China,Yuan Renminbi,-4.49,17.07,3.6,7.6033,5537.3,82.97,Yuan Renminbi,Shilling
+China,Yuan Renminbi,-4.11,19.04,6.85,1.7726,7338.9,31.96,Euro,Yuan Renminbi
+China,Yuan Renminbi,-0.19,8.2,3.23,7.6456,8793.3,26.6,Yuan Renminbi,Som
+China,Yuan Renminbi,-3.03,2.86,15.66,3.753,7546.92,11.26,Dinar,Baht
+Palestinian Territory,Shekel,9.85,26.15,9.11,2.992,4391.55,41.78,Peso,Yuan Renminbi
+China,Yuan Renminbi,-8.78,25.17,17.03,8.5321,5827.99,15.73,Yuan Renminbi,Dollar
+China,Yuan Renminbi,3.06,1.09,19.28,1.7557,2433.25,82.89,Lari,Yuan Renminbi
+Indonesia,Rupiah,0.41,7.15,15.78,8.7673,7060.24,77.14,Yuan Renminbi,Ariary
+Albania,Lek,-2.04,22.51,11.49,6.1222,8788.95,99.92,Krona,Shilling
+Mauritania,Ouguiya,3.19,2.59,2.1,8.9373,6882.03,62.3,Lek,Krona
+Kenya,Shilling,-3.34,12.51,0.4,6.329,6680.78,29.79,Krona,Euro
+Czech Republic,Koruna,0.41,14.74,18.3,8.5954,186.58,40.61,Peso,Peso
+Russia,Ruble,-5.45,28.1,9.53,2.1189,1202.71,59.35,Lempira,Dinar
+Canada,Dollar,-8.61,1.56,15.45,5.1042,1040.01,46.4,Lek,Yuan Renminbi
+Indonesia,Rupiah,3.05,19.69,6.47,5.5636,1571.87,32.21,Riels,Rial
+Mongolia,Tugrik,3.6,11.56,10.37,8.0738,7580.32,95.9,Yen,Ruble
+France,Euro,-0.32,15.38,13.78,1.1579,2516.69,11.49,Yuan Renminbi,Rupiah
+Canada,Dollar,-8.87,2.66,6.68,7.5677,5694.15,46.05,Yuan Renminbi,Zloty
+Russia,Ruble,-6.27,28.67,5.39,4.054,5507.79,76.55,Lev,Euro
+Philippines,Peso,-9.76,26.25,13.83,1.8105,8470.0,97.81,Yuan Renminbi,Dirham
+China,Yuan Renminbi,-5.55,27.03,7.78,9.2775,8526.43,20.92,Koruna,Shilling
+Indonesia,Rupiah,8.39,22.61,15.26,7.1762,498.23,32.09,Yuan Renminbi,Yuan Renminbi
+Palestinian Territory,Shekel,5.58,4.2,15.9,0.0464,9842.85,71.83,Dong,Yuan Renminbi
+Brazil,Real,-9.89,29.47,1.75,1.5729,7578.85,67.59,Peso,Euro
+Costa Rica,Colon,5.37,8.02,12.19,9.3263,3248.22,69.94,Rupiah,Peso
+China,Yuan Renminbi,-9.44,25.32,0.92,7.0244,1904.15,11.56,Yuan Renminbi,Quetzal
+Tunisia,Dinar,2.17,26.8,10.11,4.5428,177.26,91.0,Somoni,Yuan Renminbi
+China,Yuan Renminbi,-1.52,9.69,10.44,0.4736,3910.43,41.21,Yuan Renminbi,Dollar
+Russia,Ruble,4.23,11.19,0.99,6.9456,9362.15,5.82,Peso,Guarani
+United States,Dollar,5.46,2.15,17.35,8.5179,7835.85,10.22,Rupiah,Zloty
+Poland,Zloty,-0.18,14.38,19.8,7.2321,3974.85,58.91,Yuan Renminbi,Euro
+Russia,Ruble,-0.44,8.53,3.6,1.4181,5210.86,76.7,Rupiah,Euro
+China,Yuan Renminbi,3.47,12.45,11.53,2.2978,2911.28,79.34,Koruna,Peso
+Philippines,Peso,-8.51,22.26,4.06,0.9834,904.99,25.97,Rupiah,Rupiah
+Indonesia,Rupiah,-6.15,6.59,0.01,0.2067,6100.71,61.24,Rupiah,Naira
+Nigeria,Naira,9.03,25.61,14.44,6.6134,4086.24,62.3,Yuan Renminbi,Ruble
+Cuba,Peso,-8.45,18.42,5.96,8.0959,2899.9,60.62,Euro,Yuan Renminbi
+Indonesia,Rupiah,4.54,15.11,18.5,7.7291,614.5,51.73,Dollar,Peso
+Argentina,Peso,-9.83,19.95,3.13,7.1859,5505.32,76.76,Euro,Euro
+Denmark,Krone,7.13,9.21,15.45,2.3207,7979.21,23.63,Yuan Renminbi,Real
+Brazil,Real,-6.1,18.34,2.31,7.8508,9303.14,8.49,Dollar,Yuan Renminbi
+Indonesia,Rupiah,-7.81,10.99,5.16,5.359,955.5,0.53,Euro,Peso
+Russia,Ruble,-4.3,25.29,0.02,2.1761,1961.4,57.66,Yuan Renminbi,Boliviano
+Czech Republic,Koruna,-2.97,20.35,12.19,4.0315,9618.52,87.43,Rial,Yen
+China,Yuan Renminbi,9.94,28.81,13.38,3.8886,2399.25,68.04,Euro,Euro
+Sweden,Krona,9.33,28.7,5.3,2.3063,8197.85,26.41,Leu,Zloty
+Ukraine,Hryvnia,8.6,14.83,9.38,2.4695,5484.76,1.45,Yuan Renminbi,Krona
+Portugal,Euro,1.72,17.2,8.02,5.865,1352.82,71.6,Dollar,Yuan Renminbi
+Russia,Ruble,5.39,8.36,15.05,0.2475,6586.59,70.99,Boliviano,Rupee
+Philippines,Peso,2.83,0.44,8.17,7.3229,6925.84,1.17,Peso,Euro
+China,Yuan Renminbi,-5.76,10.02,2.44,4.2706,176.3,36.59,Dinar,Koruna
+United States,Dollar,8.79,26.46,18.09,9.3924,6130.49,69.43,Peso,Yuan Renminbi
+Kazakhstan,Tenge,8.09,18.81,19.96,0.4337,9285.03,49.4,Ruble,Ruble
+Brazil,Real,2.24,11.17,4.03,1.2621,4437.41,13.59,Yuan Renminbi,Rupee
+Sweden,Krona,-8.12,7.32,3.2,4.7894,6007.74,83.39,Dollar,Real
+Georgia,Lari,9.41,7.32,12.22,1.2806,897.93,15.04,Ruble,Peso
+Zimbabwe,Dollar,4.64,1.25,9.42,8.0585,8812.11,26.74,Yuan Renminbi,Dollar
+United States,Dollar,-3.43,12.12,17.4,2.1488,4589.26,20.64,Peso,Yuan Renminbi
+Philippines,Peso,-4.88,2.58,1.11,8.9022,5590.44,44.13,Yuan Renminbi,Shilling
+Canada,Dollar,1.71,13.33,8.44,3.1017,9897.98,64.67,Peso,Pound
+Pakistan,Rupee,-4.66,19.45,6.22,8.5648,6782.73,88.33,Rupiah,Euro
+Malaysia,Ringgit,-6.9,21.9,7.51,5.4974,3036.44,49.0,Cordoba,Rupiah
+Peru,Sol,-7.37,21.08,13.09,8.4907,4325.76,89.38,Yuan Renminbi,Ruble
+Peru,Sol,-4.74,24.28,15.31,5.6708,5171.95,57.22,Euro,Rupiah
+Brazil,Real,-7.2,3.07,0.61,4.7427,3656.94,68.28,Yen,Euro
+China,Yuan Renminbi,-6.79,2.69,4.17,6.9316,334.99,21.62,Yuan Renminbi,Euro
+Philippines,Peso,-8.16,22.47,17.78,9.2313,2082.93,12.63,Euro,Yuan Renminbi
+Netherlands,Euro,-1.54,28.29,14.67,3.2126,6591.83,28.17,Peso,Yuan Renminbi
+Brazil,Real,5.87,12.39,17.24,2.3806,5689.99,2.93,Yuan Renminbi,Euro
+China,Yuan Renminbi,7.66,18.38,16.89,5.5269,8485.79,49.8,Rupiah,Euro
+Finland,Euro,-4.36,22.88,12.03,9.5995,6389.08,35.38,Koruna,Rial
+Finland,Euro,4.12,0.77,17.53,0.386,3825.58,78.78,Zloty,Yuan Renminbi
+Russia,Ruble,-5.07,19.07,7.58,7.7839,3996.93,23.36,Ruble,Kuna
+China,Yuan Renminbi,-1.25,12.8,8.01,7.3955,526.35,99.77,Rupiah,Euro
+Indonesia,Rupiah,4.17,14.89,10.11,2.6003,7550.38,2.79,Koruna,Peso
+Estonia,Euro,-5.97,20.22,13.14,3.3484,9763.95,46.71,Krone,Yuan Renminbi
+Argentina,Peso,-3.26,19.33,0.63,6.1843,7598.94,70.53,Euro,Dollar
+Sweden,Krona,7.0,12.96,3.11,8.8952,5649.85,14.71,Rupiah,Hryvnia
+Indonesia,Rupiah,8.84,15.94,5.04,1.6851,3373.86,75.85,Rupiah,Euro
+China,Yuan Renminbi,-8.61,10.17,6.02,1.9294,2496.86,60.24,Real,Peso
+China,Yuan Renminbi,3.91,0.69,15.82,7.2487,5912.19,46.53,Peso,Rupiah
+Poland,Zloty,1.31,13.04,5.29,0.7057,3324.01,26.49,Yuan Renminbi,Afghani
+Russia,Ruble,7.22,22.05,18.95,7.4316,7106.52,43.69,Franc,Euro
+China,Yuan Renminbi,-5.17,0.64,9.63,0.4256,3880.25,86.16,Real,Hryvnia
+Indonesia,Rupiah,-4.83,22.45,8.57,1.2517,9534.57,5.51,Yuan Renminbi,Kyat
+Tunisia,Dinar,3.93,27.86,6.49,9.1901,359.95,81.19,Zloty,Yuan Renminbi
+Mauritius,Rupee,-0.04,27.24,2.94,6.8671,8446.37,54.61,Yuan Renminbi,Ruble
+Cameroon,Franc,3.7,7.51,3.42,7.0206,2454.6,61.22,Sol,Krona
+Indonesia,Rupiah,7.75,19.04,14.92,0.82,5497.67,73.85,Euro,Yuan Renminbi
+Botswana,Pula,-1.69,17.19,19.14,7.7653,1738.04,49.45,Euro,Real
+Belarus,Ruble,9.42,3.94,9.8,0.052,4372.83,52.07,Real,Baht
+Tajikistan,Somoni,-8.99,8.46,16.87,7.1445,5548.09,57.06,Yuan Renminbi,Ruble
+Slovenia,Euro,2.16,12.21,15.67,7.9604,1559.19,81.22,Rupiah,Zloty
+Indonesia,Rupiah,-8.39,26.39,4.58,7.9803,5702.49,88.46,Koruna,Euro
+Russia,Ruble,7.21,2.66,3.91,6.4985,5867.65,99.21,Zloty,Rupiah
+Austria,Euro,-9.3,28.61,5.25,6.4409,2500.22,27.93,Ruble,Rupiah
+South Korea,Won,2.28,24.91,2.08,9.2123,115.18,0.62,Rial,Yuan Renminbi
+Poland,Zloty,6.63,22.65,18.6,3.9895,2384.99,19.11,Peso,Euro
+Mexico,Peso,-7.38,29.44,11.81,3.8223,8425.31,71.28,Yuan Renminbi,Zloty
+China,Yuan Renminbi,-6.22,29.96,5.34,4.5969,2906.5,41.34,Rupiah,Ruble
+Indonesia,Rupiah,-0.68,11.3,0.33,3.7805,3885.73,48.2,Ruble,Baht
+Cyprus,Euro,1.13,2.26,11.53,5.5381,2442.92,46.75,Rupiah,Yuan Renminbi
+Honduras,Lempira,3.67,2.27,8.37,9.5685,9958.23,64.61,Real,Rupiah
+Poland,Zloty,-2.9,27.84,13.07,5.3631,8109.93,88.4,Kuna,Zloty
+Kenya,Shilling,2.36,4.67,6.64,4.0228,954.99,19.27,Rupiah,Ruble
+Poland,Zloty,1.53,9.9,5.03,0.5511,1936.52,4.82,Euro,Yen
+China,Yuan Renminbi,-3.43,28.23,14.22,6.0822,9159.04,75.62,Yuan Renminbi,Rupiah
+Madagascar,Ariary,6.56,10.92,7.05,4.3039,5209.29,52.23,Euro,Ruble
+Sweden,Krona,-4.29,0.73,4.02,7.5458,7512.23,8.14,Koruna,Yuan Renminbi
+China,Yuan Renminbi,2.96,7.29,3.08,3.3563,8323.39,21.57,Koruna,Zloty
+United States,Dollar,2.0,11.21,4.26,1.7181,3734.24,27.05,Pound,Cedi
+China,Yuan Renminbi,-9.97,8.27,3.09,2.942,7509.02,52.28,Yuan Renminbi,Euro
+Peru,Sol,-9.47,0.06,11.81,0.374,6328.94,62.71,Koruna,Rupiah
+China,Yuan Renminbi,8.87,3.62,12.96,3.033,9531.97,59.81,Rupee,Yen
+France,Euro,5.87,25.83,18.29,3.6013,7774.31,4.94,Yuan Renminbi,Taka
+Peru,Sol,5.29,15.4,19.21,1.5033,1557.67,72.44,Peso,Ruble
+Indonesia,Rupiah,6.34,3.0,18.43,2.9435,837.14,61.9,Euro,Yuan Renminbi
+China,Yuan Renminbi,-3.94,19.58,2.53,3.0879,9119.7,71.8,Ruble,Rupiah
+Russia,Ruble,-0.22,10.41,14.48,1.9246,4864.44,88.66,Euro,Euro
+China,Yuan Renminbi,0.48,20.68,11.36,3.3812,7955.43,82.26,Dinar,Dong
+Philippines,Peso,1.67,29.06,2.46,8.5141,7501.26,81.14,Dollar,Peso
+Philippines,Peso,-3.11,19.41,3.9,2.7173,9177.48,75.54,Ringgit,Dollar
+China,Yuan Renminbi,-0.53,24.01,9.96,8.7192,4847.68,52.99,Peso,Dollar
+Brazil,Real,7.53,7.54,15.39,2.4501,8665.37,62.36,Yuan Renminbi,Yuan Renminbi
+Japan,Yen,3.29,29.89,3.98,3.8286,1305.03,63.28,Peso,Euro
+France,Euro,-6.65,2.37,6.25,0.4477,1141.32,62.69,Yuan Renminbi,Franc
+Brazil,Real,8.55,4.87,6.06,4.4922,7691.67,88.34,Yuan Renminbi,Euro
+Pakistan,Rupee,-0.93,26.37,0.56,6.8704,7425.77,85.76,Real,Euro
+China,Yuan Renminbi,-5.32,1.58,10.27,7.8406,4012.74,42.68,Won,Yuan Renminbi
+France,Euro,-4.29,22.88,17.69,1.8391,7290.29,69.71,Krona,Yuan Renminbi
+Yemen,Rial,0.11,11.73,11.41,5.6102,5016.32,59.9,Yuan Renminbi,Yuan Renminbi
+Pakistan,Rupee,5.03,9.65,1.1,9.7476,599.25,35.52,Real,Ruble
+Serbia,Dinar,2.98,18.35,9.86,7.2669,5201.89,29.83,Rupiah,Ruble
+Bosnia and Herzegovina,Marka,1.26,16.74,0.68,0.1313,8433.96,11.98,Krona,Rupiah
+Philippines,Peso,-7.38,20.85,16.96,8.0965,9100.15,33.37,Rupiah,Hryvnia
+Ukraine,Hryvnia,-2.19,23.14,2.78,1.7713,9730.5,63.88,Yuan Renminbi,Real
+Indonesia,Rupiah,5.91,11.66,6.17,2.1158,4587.57,10.78,Rupiah,Yuan Renminbi
+China,Yuan Renminbi,-8.0,8.86,14.48,9.6162,249.04,25.11,Rupiah,Hryvnia
+Greece,Euro,-2.89,1.18,3.09,8.2284,52.43,28.7,Tenge,Yuan Renminbi
+Kyrgyzstan,Som,-4.28,19.69,14.32,8.2635,5434.8,99.52,Shekel,Rupiah
+Indonesia,Rupiah,-0.32,5.84,14.35,5.3274,2603.2,12.22,Euro,Ruble
+China,Yuan Renminbi,-5.1,12.6,0.67,1.9697,2830.56,32.62,Peso,Baht
+France,Euro,-4.93,2.79,11.16,7.2268,8901.16,86.88,Yuan Renminbi,Rupiah
+Russia,Ruble,-9.79,10.56,17.18,3.7792,3599.31,81.99,Peso,Real
+Brazil,Real,-5.62,29.21,1.46,0.884,1349.12,0.7,Sol,Yuan Renminbi
+Indonesia,Rupiah,-0.25,18.71,2.16,5.8754,7324.52,25.06,Euro,Dollar
+Colombia,Peso,-5.17,21.29,5.63,1.5334,7534.87,37.29,Ruble,Rupiah
+Benin,Franc,-6.51,7.74,6.33,0.9903,9730.63,1.88,Peso,Rupiah
+Slovenia,Euro,3.51,20.39,11.54,1.1353,2487.97,98.0,Rial,Baht
+United Kingdom,Pound,-3.65,24.71,10.26,7.4014,1580.44,74.53,Dollar,Rial
+Japan,Yen,-5.98,25.55,17.75,6.843,9872.76,96.37,Yuan Renminbi,Ruble
+China,Yuan Renminbi,6.11,29.46,7.77,7.3983,53.79,11.0,Euro,Euro
+Cuba,Peso,-9.29,23.72,1.48,8.558,3577.98,54.42,Real,Rupiah
+Finland,Euro,-7.57,28.84,5.37,3.657,9811.67,86.22,Rand,Shilling
+Indonesia,Rupiah,-0.12,23.18,17.92,3.0195,8186.19,63.3,Yuan Renminbi,Peso
+Indonesia,Rupiah,-8.82,9.16,13.25,8.3939,173.91,42.52,Peso,Rupiah
+Philippines,Peso,-8.03,15.37,14.19,5.7249,1088.42,29.11,Euro,Yuan Renminbi
+Croatia,Kuna,7.76,7.09,15.25,9.4233,2691.13,27.36,Yuan Renminbi,Real
+Poland,Zloty,-7.74,7.85,10.42,9.975,563.08,95.52,Krona,Dirham
+China,Yuan Renminbi,4.56,28.02,16.13,5.7418,5456.57,56.68,Rupiah,Euro
+Nepal,Rupee,-7.91,7.45,16.99,5.5924,938.56,16.95,Hryvnia,Dinar
+Dominican Republic,Peso,-3.88,24.58,8.57,5.7057,8619.3,7.12,Euro,Real
+Burundi,Franc,4.91,23.54,7.63,6.4567,9117.14,44.91,Real,Dollar
+Thailand,Baht,-4.02,11.0,15.92,8.2804,2785.6,39.67,Rial,Krone
+China,Yuan Renminbi,3.9,24.53,9.22,6.615,4922.27,73.45,Ruble,Yuan Renminbi
+Panama,Balboa,6.4,10.14,15.11,5.5432,2869.6,40.52,Hryvnia,Real
+Venezuela,Bolivar,-5.24,14.97,5.16,4.6366,2018.91,74.73,Rupiah,Yuan Renminbi
+Philippines,Peso,6.79,18.16,18.09,2.2588,1835.74,22.23,Yuan Renminbi,Franc
+Ethiopia,Birr,-7.39,5.42,9.35,0.5084,8320.22,62.82,Krona,Yuan Renminbi
+Indonesia,Rupiah,4.61,11.14,14.19,6.9033,5264.98,23.57,Rupiah,Peso
+Philippines,Peso,-3.57,4.88,16.25,2.1505,4340.77,86.3,Cordoba,Rupee
+Argentina,Peso,-6.68,14.19,0.22,8.1087,4230.46,23.44,Ruble,Euro
+Thailand,Baht,-2.53,6.47,10.56,5.1519,8570.74,88.52,Euro,Koruna
+Uruguay,Peso,-8.63,24.02,3.28,7.9094,4167.83,9.87,Peso,Sol
+Syria,Pound,-6.49,25.06,10.9,1.4553,3449.96,78.24,Won,Yuan Renminbi
+China,Yuan Renminbi,-6.96,19.22,8.09,6.6181,1486.3,63.25,Peso,Rupiah
+Croatia,Kuna,1.6,15.35,8.66,5.3516,1592.14,47.83,Peso,Dollar
+Philippines,Peso,1.23,21.68,14.69,6.6512,8150.39,15.34,Euro,Rupiah
+Russia,Ruble,8.29,18.56,15.73,9.1544,5404.56,94.18,Euro,Euro
+Philippines,Peso,2.73,19.62,2.32,9.764,4149.73,20.46,Yuan Renminbi,Peso
+Niger,Franc,-4.26,27.32,6.32,6.473,5157.03,50.89,Lev,Peso
+Poland,Zloty,-0.05,17.47,14.95,9.5612,7504.32,84.71,Peso,Real
+China,Yuan Renminbi,3.24,12.83,18.17,9.7019,909.66,97.41,Kuna,Euro
+Tanzania,Shilling,8.95,25.28,8.58,9.2669,8365.52,1.58,Rupiah,Rupiah
+Greece,Euro,-6.72,26.29,18.69,8.2164,4189.2,4.61,Yuan Renminbi,Zloty
+Russia,Ruble,-5.55,7.33,9.59,8.6856,8547.33,28.34,Real,Yuan Renminbi
+Argentina,Peso,5.04,13.64,9.36,4.8587,91.75,29.27,Ruble,Euro
+Philippines,Peso,8.63,25.65,14.44,1.1898,5002.66,96.62,Rupiah,Shekel
+Brazil,Real,-6.09,3.9,0.72,6.169,2030.42,8.73,Real,Yuan Renminbi
+China,Yuan Renminbi,4.45,12.9,16.42,6.9996,4273.83,88.1,Dirham,Dong
+China,Yuan Renminbi,8.75,3.27,5.92,9.1136,3693.52,39.58,Real,Yuan Renminbi
+Sri Lanka,Rupee,7.66,18.36,7.04,3.5687,851.7,46.08,Peso,Dollar
+Peru,Sol,-6.04,5.75,2.66,0.4367,7347.81,44.17,Shekel,Manat
+New Zealand,Dollar,0.88,28.37,19.59,4.0334,442.08,4.2,Yuan Renminbi,Shilling
+Canada,Dollar,0.56,19.33,12.56,5.8813,2051.78,46.3,Yuan Renminbi,Hryvnia
+Austria,Euro,3.7,12.81,7.48,9.855,1546.67,20.69,Rupiah,Rupee
+Kazakhstan,Tenge,1.94,22.18,6.61,0.2678,291.84,96.83,Krona,Ruble
+Brazil,Real,9.75,1.72,14.88,0.1594,4254.25,7.37,Peso,Peso
+China,Yuan Renminbi,-6.11,22.95,12.47,4.9831,1998.11,44.71,Lempira,Ruble
+Madagascar,Ariary,-8.7,6.91,10.05,4.9217,239.02,99.54,Balboa,Yuan Renminbi
+French Polynesia,Franc,-5.13,5.58,11.36,0.1436,4692.11,94.02,Zloty,Yuan Renminbi
+China,Yuan Renminbi,7.91,11.69,1.34,2.0481,913.51,63.38,Rupiah,Rupiah
+Indonesia,Rupiah,-2.09,12.73,2.19,8.3764,8132.04,55.78,Euro,Yuan Renminbi
+Colombia,Peso,1.02,12.85,8.62,7.6863,632.33,40.91,Ruble,Franc
+South Africa,Rand,6.72,3.83,14.47,1.5335,232.03,7.88,Euro,Peso
+China,Yuan Renminbi,-0.99,14.57,12.27,5.3532,286.34,56.71,Krona,Peso
+China,Yuan Renminbi,1.8,0.47,15.04,7.8878,3632.08,49.72,Ruble,Lek
+Sweden,Krona,6.98,26.75,15.26,1.3693,8172.94,36.17,Krone,Rupiah
+France,Euro,-4.01,22.72,3.08,9.8599,8001.98,37.38,Peso,Euro
+Canada,Dollar,-9.26,5.78,17.78,8.2446,8809.55,48.11,Dirham,Dollar
+China,Yuan Renminbi,-1.33,3.07,2.98,4.5183,3653.36,97.33,Peso,Real
+China,Yuan Renminbi,7.78,23.02,11.41,9.8843,6107.27,99.99,Taka,Kuna
+Kyrgyzstan,Som,1.71,28.0,19.6,7.6666,7461.9,1.18,Rupiah,Euro
+China,Yuan Renminbi,8.59,14.37,19.0,1.6841,8873.96,75.5,Manat,Yuan Renminbi
+Syria,Pound,-3.97,24.45,16.25,1.8426,3972.92,92.83,Rupiah,Peso
+Philippines,Peso,-1.53,1.2,14.45,8.0412,3077.32,92.36,Rupiah,Real
+Pakistan,Rupee,1.79,25.48,19.66,8.515,2337.28,64.44,Yuan Renminbi,Ruble
+Indonesia,Rupiah,2.92,7.94,16.38,5.1084,311.85,33.05,Peso,Peso
+Philippines,Peso,8.4,14.82,1.12,7.4683,8194.03,24.78,Real,Yuan Renminbi
+Russia,Ruble,4.63,23.22,8.22,5.3886,123.37,98.35,Euro,Peso
+China,Yuan Renminbi,-8.57,0.14,1.19,1.257,4086.45,98.63,Rupiah,Dollar
+Greece,Euro,-1.06,28.67,18.06,9.8468,5794.79,71.72,Euro,Dong
+Poland,Zloty,-8.38,22.06,3.01,0.2541,9298.3,10.54,Rupiah,Peso
+South Africa,Rand,7.45,19.43,3.75,1.6263,9815.01,77.53,Balboa,Koruna
+Philippines,Peso,7.69,18.19,9.15,2.9167,4463.26,55.82,Euro,Kuna
+Poland,Zloty,1.01,13.4,18.72,3.1222,5674.49,83.31,Rupiah,Euro
+Indonesia,Rupiah,-8.31,13.05,18.77,5.9087,3191.85,66.42,Peso,Guarani
+China,Yuan Renminbi,8.12,24.27,4.61,8.4916,8952.74,1.17,Sol,Yuan Renminbi
+Sweden,Krona,5.84,7.66,12.97,9.198,7215.66,41.62,Dong,Franc
+Argentina,Peso,5.28,6.93,0.36,0.3524,312.35,98.62,Yuan Renminbi,Euro
+China,Yuan Renminbi,-9.15,21.95,11.48,0.0165,2139.6,14.03,Kyat,Yuan Renminbi
+Portugal,Euro,-4.04,0.04,8.68,7.5329,173.72,26.51,Rupiah,Dollar
+Ukraine,Hryvnia,4.21,8.34,1.53,3.4337,8140.04,90.61,Dram,Peso
+China,Yuan Renminbi,9.72,9.04,2.34,2.2692,3252.58,77.55,Yuan Renminbi,Yuan Renminbi
+Venezuela,Bolivar,7.78,25.41,1.83,4.5858,151.35,84.82,Peso,Peso
+Thailand,Baht,-6.01,2.54,13.03,4.6604,8112.84,38.7,Yuan Renminbi,Yuan Renminbi
+Moldova,Leu,5.39,5.8,16.89,3.9114,5587.87,25.16,Real,Yuan Renminbi
+China,Yuan Renminbi,0.25,21.73,3.74,0.952,7261.99,78.6,Ruble,Dong
+Canada,Dollar,-5.6,0.63,11.61,9.3636,4203.16,17.89,Dinar,Real
+Bulgaria,Lev,-3.8,2.79,4.37,3.7577,3015.39,79.05,Yuan Renminbi,Yuan Renminbi
+Norway,Krone,-4.4,28.23,3.95,5.7748,9751.65,91.2,Rial,Euro
+Poland,Zloty,4.68,2.37,17.04,6.5477,8233.6,25.03,Dollar,Euro
+Thailand,Baht,-3.27,15.99,11.95,7.7923,9759.37,77.69,Euro,Ringgit
+Indonesia,Rupiah,5.94,25.82,6.86,2.4313,7233.15,55.04,Dollar,Rupiah
+China,Yuan Renminbi,-2.22,8.45,18.25,2.2585,9526.31,37.57,Peso,Peso
+Kazakhstan,Tenge,4.48,2.29,12.47,7.4076,1346.08,80.31,Euro,Ruble
+Anguilla,Dollar,-4.56,26.32,6.26,9.0554,4331.54,5.49,Hryvnia,Yen
+Philippines,Peso,-1.28,13.45,7.39,6.6314,6760.92,64.98,Ruble,Euro
+Slovenia,Euro,-6.03,21.74,18.85,9.6001,2193.33,18.33,Peso,Real
+Sweden,Krona,0.66,11.94,16.74,6.8925,2717.86,45.81,Dong,Peso
+China,Yuan Renminbi,-6.77,3.18,3.32,7.9842,4762.65,91.21,Yuan Renminbi,Yuan Renminbi
+Sweden,Krona,-3.26,26.55,10.86,6.9226,4441.29,58.3,Rupee,Ruble
+Brazil,Real,-3.38,13.82,18.71,8.0717,4840.84,6.38,Yuan Renminbi,Yuan Renminbi
+Martinique,Euro,2.71,8.66,17.48,9.4979,5739.57,22.76,Tugrik,Krone
+South Africa,Rand,-4.7,20.09,17.31,3.9487,63.9,47.43,Rupiah,Rupiah
+China,Yuan Renminbi,-5.41,25.76,0.1,4.3221,2527.03,10.45,Rupiah,Ringgit
+Russia,Ruble,-4.96,10.29,7.85,3.7432,6978.58,17.47,Euro,Euro
+China,Yuan Renminbi,2.52,18.24,7.99,9.4216,3940.46,1.37,Rupiah,Euro
+China,Yuan Renminbi,-2.81,8.5,7.75,0.6356,257.86,57.19,Ruble,Lek
+Sweden,Krona,-8.83,16.55,18.7,0.9147,6233.31,14.75,Euro,Ruble
+Russia,Ruble,7.36,6.3,7.47,2.3721,7680.44,48.65,Yuan Renminbi,Yuan Renminbi
+France,Euro,3.73,23.53,1.26,3.6236,1879.2,3.06,Kuna,Euro
+Ukraine,Hryvnia,5.06,7.89,4.93,3.0066,5258.08,29.29,Peso,Peso
+Russia,Ruble,-4.91,28.07,10.24,0.7652,8607.54,64.89,Peso,Real
+Israel,Shekel,7.49,28.8,16.42,9.038,59.46,74.74,Ringgit,Rupiah
+Nigeria,Naira,0.51,13.14,11.66,6.8166,1204.52,17.52,Dollar,Rupiah
+Vietnam,Dong,-7.95,27.08,10.38,6.4772,2764.19,59.11,Ruble,Euro
+China,Yuan Renminbi,9.59,13.79,7.66,4.3161,9337.42,70.15,Yen,Real
+Venezuela,Bolivar,5.35,16.58,17.69,3.0855,5907.72,68.29,Rupiah,Rupiah
+Armenia,Dram,-8.45,5.2,15.95,6.2211,9865.78,97.84,Krona,Yuan Renminbi
+Philippines,Peso,1.94,19.65,7.53,4.4985,2159.97,24.7,Yuan Renminbi,Shekel
+China,Yuan Renminbi,6.82,6.65,12.95,9.2245,73.01,37.11,Yuan Renminbi,Yuan Renminbi
+China,Yuan Renminbi,-8.63,26.31,12.9,4.4013,1958.23,48.74,Yuan Renminbi,Kuna
+Brazil,Real,-1.18,12.23,0.37,7.2087,779.33,40.93,Ruble,Yuan Renminbi
+China,Yuan Renminbi,-5.39,22.28,8.07,1.0254,8268.73,31.0,Euro,Yuan Renminbi
+Philippines,Peso,5.19,20.08,3.59,4.1086,1902.07,79.45,Naira,Yuan Renminbi
+Russia,Ruble,-5.67,9.19,11.58,3.7386,4213.75,15.61,Bolivar,Yuan Renminbi
+Bolivia,Boliviano,-6.25,9.26,5.6,3.135,8880.65,88.49,Euro,Yuan Renminbi
+Mexico,Peso,-8.3,12.5,19.15,6.4357,3647.04,89.54,Krone,Dinar
+China,Yuan Renminbi,-1.76,22.74,5.57,4.5616,6916.43,4.4,Dram,Yuan Renminbi
+Colombia,Peso,2.33,25.86,10.1,2.3135,69.6,55.41,Rupiah,Denar
+Colombia,Peso,-5.7,5.32,6.59,8.228,6768.93,70.52,Krona,Birr
+Philippines,Peso,-7.42,16.04,5.33,5.4201,5298.15,33.7,Peso,Yuan Renminbi
+Albania,Lek,9.89,18.74,5.9,0.9886,6000.32,97.01,Ruble,Taka
+China,Yuan Renminbi,-9.67,21.67,6.62,3.5711,1345.82,21.71,Yuan Renminbi,Denar
+United States,Dollar,-1.0,7.49,1.59,0.3033,8013.29,8.04,Peso,Peso
+Philippines,Peso,-1.44,2.93,18.25,8.3984,3806.58,51.9,Franc,Rand
+Sweden,Krona,-6.34,22.86,4.12,7.3365,4195.01,61.51,Rupiah,Shilling
+Palestinian Territory,Shekel,-7.85,24.25,6.91,8.2728,9818.02,25.78,Dollar,Zloty
+Russia,Ruble,-6.22,2.75,6.87,8.3169,7073.14,45.03,Yuan Renminbi,Rupiah
+China,Yuan Renminbi,-3.67,29.78,9.41,1.0388,2855.27,79.41,Rupiah,Rand
+China,Yuan Renminbi,-2.96,5.91,2.28,9.9493,1777.22,34.41,Ruble,Ruble
+Iran,Rial,-8.18,14.63,14.47,6.514,3.11,74.16,Kuna,Yuan Renminbi
+Poland,Zloty,1.98,22.27,8.77,2.303,1641.37,77.33,Real,Franc
+Indonesia,Rupiah,-3.65,4.51,17.29,2.2302,8184.54,67.2,Yuan Renminbi,Rial
+Philippines,Peso,2.43,0.76,11.14,1.3556,5452.07,84.07,Real,Peso
+Ukraine,Hryvnia,-6.05,8.24,14.16,4.817,2191.58,85.68,Yuan Renminbi,Yuan Renminbi
+China,Yuan Renminbi,-7.71,2.52,2.74,3.6212,1889.75,18.0,Yuan Renminbi,Yuan Renminbi
+China,Yuan Renminbi,-2.46,1.07,8.75,4.1939,1304.62,17.17,Yuan Renminbi,Rand
+China,Yuan Renminbi,3.55,12.28,9.1,2.8427,1029.24,35.15,Euro,Dollar
+China,Yuan Renminbi,-5.89,19.73,8.89,5.6723,834.29,3.36,Zloty,Rupiah
+Armenia,Dram,-7.51,2.64,17.94,1.0009,502.53,82.87,Rial,Krona
+China,Yuan Renminbi,-3.44,4.56,0.77,2.88,9757.1,12.54,Yen,Yuan Renminbi
+China,Yuan Renminbi,-1.39,21.05,4.87,6.6458,3796.14,28.6,Yuan Renminbi,Euro
+China,Yuan Renminbi,-9.33,2.25,15.22,9.9504,5286.39,42.64,Euro,Euro
+Greece,Euro,3.79,2.31,19.89,4.2767,962.14,39.42,Yuan Renminbi,Real
+China,Yuan Renminbi,-6.88,8.65,8.91,9.0551,9909.62,6.78,Ruble,Krona
+China,Yuan Renminbi,-5.72,29.61,8.64,8.8171,9950.73,46.22,Yuan Renminbi,Dollar
+United States,Dollar,6.31,7.21,13.86,7.8274,7299.43,85.01,Yuan Renminbi,Sol
+Nigeria,Naira,-8.74,21.39,13.15,4.441,241.4,48.96,Zloty,Euro
+Bulgaria,Lev,-8.05,21.78,1.24,9.0864,5628.77,49.75,Hryvnia,Rupee
+China,Yuan Renminbi,1.88,15.93,15.7,1.4745,9439.52,66.79,Euro,Rupiah
+China,Yuan Renminbi,-3.07,0.52,3.76,7.9164,7160.62,23.72,Euro,Euro
+Egypt,Pound,-2.61,1.26,9.33,7.6172,8238.43,33.96,Baht,Baht
+Kyrgyzstan,Som,6.26,0.71,7.36,6.5131,449.14,26.39,Kuna,Euro
+Poland,Zloty,-0.79,16.86,10.69,6.2096,4903.73,18.07,Euro,Yuan Renminbi
+Poland,Zloty,3.85,10.12,17.49,6.9406,2583.08,34.9,Rupiah,Dollar
+France,Euro,-8.27,4.91,3.05,3.2539,6692.0,26.28,Zloty,Marka
+China,Yuan Renminbi,5.24,25.49,8.3,4.6551,3961.02,57.3,Sol,Yuan Renminbi
+Zambia,Kwacha,-7.84,28.17,17.5,8.1621,9481.47,57.08,Rupiah,Kuna
+Macedonia,Denar,-5.77,14.82,5.81,7.9946,4386.87,38.74,Zloty,Rupee
+Armenia,Dram,4.9,8.67,9.48,8.6111,8349.59,56.73,Koruna,Peso
+Russia,Ruble,0.51,20.76,10.37,8.4975,8449.86,0.39,Yuan Renminbi,Peso
+China,Yuan Renminbi,8.33,3.31,19.94,6.0537,2447.89,56.97,Rupiah,Krona
+Brazil,Real,-3.65,23.4,5.69,1.2701,4468.31,32.19,Euro,Zloty
+Portugal,Euro,-1.51,22.18,16.45,2.4906,909.96,77.27,Krona,Dollar
+Portugal,Euro,-5.0,24.38,15.04,2.7646,5152.01,3.71,Dinar,Yuan Renminbi
+Nigeria,Naira,-0.06,2.58,1.99,6.2625,3858.41,21.44,Litas,Krona
+Russia,Ruble,3.91,24.57,6.09,8.3809,7813.48,49.35,Dram,Euro
+United States,Dollar,6.5,13.19,16.38,3.0312,7286.02,13.12,Shekel,Dong
+China,Yuan Renminbi,-5.87,20.23,16.07,1.2912,4746.06,5.53,Won,Ringgit
+Russia,Ruble,6.75,18.05,6.03,9.8636,7428.44,97.21,Yuan Renminbi,Euro
+Benin,Franc,-7.0,29.36,2.06,8.9877,2850.21,53.34,Dinar,Pound
+China,Yuan Renminbi,0.73,16.25,10.26,1.4578,8105.98,98.7,Sol,Peso
+Czech Republic,Koruna,-0.68,22.69,13.36,7.0075,5588.79,65.09,Yuan Renminbi,Rupiah
+China,Yuan Renminbi,-1.25,11.64,12.81,3.549,6728.57,22.03,Euro,Rial
+China,Yuan Renminbi,-4.48,1.46,19.26,5.1595,8259.67,84.44,Somoni,Euro
+Czech Republic,Koruna,1.03,1.93,14.0,2.6272,4965.93,0.67,Euro,Yen
+Dominican Republic,Peso,3.13,26.58,10.15,8.1248,9271.26,45.14,Yuan Renminbi,Ruble
+Nigeria,Naira,-0.41,21.92,3.52,3.6879,2262.14,63.77,Yuan Renminbi,Yuan Renminbi
+China,Yuan Renminbi,2.48,1.63,17.31,5.8901,1656.4,14.13,Zloty,Ruble
+China,Yuan Renminbi,0.58,9.41,16.17,1.3219,9682.77,21.3,Dollar,Ruble
+Chile,Peso,5.38,7.92,2.71,4.8437,4031.48,87.91,Yuan Renminbi,Peso
+Afghanistan,Afghani,-9.07,23.41,5.05,6.7493,9780.73,24.06,Rupiah,Sol
+China,Yuan Renminbi,-6.88,9.48,17.81,7.4544,5896.02,43.99,Kwacha,Krona
+China,Yuan Renminbi,-5.64,16.08,18.49,9.4116,7197.56,2.39,Forint,Peso
+Croatia,Kuna,9.45,3.32,15.52,8.7649,5615.44,77.18,Kuna,Peso
+Kenya,Shilling,-1.69,12.07,16.07,3.8908,8848.58,90.93,Real,Rupee
+Philippines,Peso,-9.67,29.32,4.43,2.0625,1515.61,30.85,Real,Real
+China,Yuan Renminbi,3.54,0.83,17.06,4.0873,5462.74,22.65,Naira,Tenge
+Argentina,Peso,5.56,22.61,8.35,9.8193,4585.8,65.38,Tenge,Peso
+Mexico,Peso,2.63,2.61,7.18,4.1249,8215.92,6.58,Lek,Ruble
+China,Yuan Renminbi,3.42,21.55,6.21,4.9571,5611.38,82.43,Yuan Renminbi,Rupiah
+Colombia,Peso,-3.38,24.1,15.74,6.9073,2437.82,44.06,Hryvnia,Ruble
+China,Yuan Renminbi,-5.28,16.08,17.03,0.5336,8042.64,78.62,Dollar,Ruble
+China,Yuan Renminbi,7.3,23.53,9.85,8.062,8766.82,76.62,Real,Yuan Renminbi
+China,Yuan Renminbi,-7.26,5.43,10.21,8.8106,9622.15,44.98,Euro,Krona
+Argentina,Peso,8.82,27.31,19.29,0.211,3794.02,88.39,Yuan Renminbi,Dollar
+United States,Dollar,6.24,25.23,15.53,9.4645,6874.1,18.15,Dollar,Peso
+China,Yuan Renminbi,-9.48,25.75,4.26,2.707,1153.2,2.75,Euro,Ruble
+Venezuela,Bolivar,0.86,6.03,6.5,4.8269,3388.28,60.28,Rupiah,Ringgit
+Japan,Yen,3.57,26.19,4.87,3.8314,2736.34,11.52,Dollar,Euro
+China,Yuan Renminbi,8.96,22.64,8.22,5.3294,239.92,40.48,Rupiah,Zloty
+Republic of the Congo,Franc,-8.81,2.8,15.39,3.9893,6496.47,55.37,Rupiah,Rupiah
+Indonesia,Rupiah,-8.15,0.17,15.83,8.3818,7175.81,87.77,Yuan Renminbi,Dollar
+Peru,Sol,-1.3,6.54,9.88,4.1759,2190.92,2.97,Yuan Renminbi,Franc
+Indonesia,Rupiah,8.75,7.82,14.69,0.0592,5979.57,49.25,Krona,Yuan Renminbi
+China,Yuan Renminbi,7.86,20.36,10.91,7.0654,8281.53,75.36,Rupiah,Yuan Renminbi
+Indonesia,Rupiah,-2.18,14.58,19.7,5.6806,6325.5,22.18,Euro,Rupiah
+China,Yuan Renminbi,-3.94,6.57,8.46,9.9536,1385.94,91.71,Ruble,Yuan Renminbi
+Dominican Republic,Peso,1.65,12.68,15.44,8.693,5781.54,66.72,Euro,Dollar
+Philippines,Peso,-4.92,19.06,8.29,8.4916,9830.1,25.08,Naira,Dong
+Philippines,Peso,8.34,18.26,16.29,9.8353,330.08,18.76,Rupiah,Yuan Renminbi
+Russia,Ruble,9.43,6.83,1.4,4.7157,6966.78,87.67,Dollar,Quetzal
+China,Yuan Renminbi,-6.25,29.31,4.61,4.8728,7407.22,0.94,Rufiyaa,Yuan Renminbi
+Uzbekistan,Som,3.84,17.96,1.04,8.1895,4666.65,82.62,Rupiah,Real
+Philippines,Peso,-8.43,17.73,19.85,5.6665,4872.39,8.7,Ngultrum,Peso
+China,Yuan Renminbi,7.58,2.64,11.92,2.7255,9966.38,9.53,Rupiah,Real
+Saudi Arabia,Rial,2.48,5.01,0.62,8.7927,1931.9,35.83,Yuan Renminbi,Real
+Russia,Ruble,-0.03,27.34,3.41,2.236,4979.04,51.1,Franc,Yuan Renminbi
+China,Yuan Renminbi,-1.62,6.82,19.29,9.4222,4768.06,54.41,Krone,Peso
+China,Yuan Renminbi,-0.66,7.94,7.22,6.9155,8925.15,86.34,Yuan Renminbi,Euro
+United States,Dollar,6.57,24.71,9.8,6.6605,690.04,26.41,Dirham,Rupiah
+Vietnam,Dong,0.58,11.23,1.06,3.6833,5322.83,77.45,Real,Rupiah
+Russia,Ruble,5.44,13.89,8.5,0.0464,9898.77,87.01,Zloty,Bolivar
+Tanzania,Shilling,2.25,20.11,2.39,6.0694,9195.21,59.9,Yuan Renminbi,Rupiah
+Czech Republic,Koruna,6.25,9.53,5.32,9.5959,4542.99,7.96,Lev,Euro
+China,Yuan Renminbi,-9.7,5.75,16.55,9.9429,1038.13,74.96,Tenge,Rupee
+Czech Republic,Koruna,4.17,21.83,16.66,3.2474,8191.46,72.54,Yuan Renminbi,Peso
+Indonesia,Rupiah,9.63,17.35,7.48,9.6354,6510.45,12.31,Real,Krone
+Indonesia,Rupiah,-8.47,23.7,18.92,4.9289,1109.78,68.83,Euro,Real
+Mauritania,Ouguiya,7.44,25.05,2.51,7.821,2247.01,48.87,Dollar,Koruna
+Philippines,Peso,7.55,24.51,16.68,1.1198,7372.85,98.37,Real,Dong
+China,Yuan Renminbi,-6.41,9.27,0.1,2.1481,3451.86,84.85,Pound,Dollar
+United States,Dollar,-7.61,8.11,3.97,9.523,906.43,90.53,Yen,Euro
+Indonesia,Rupiah,7.52,11.33,18.82,2.4602,5607.59,30.31,Rupiah,Peso
+Burkina Faso,Franc,-5.65,26.37,1.87,0.9705,40.33,88.44,Ruble,Hryvnia
+Indonesia,Rupiah,-0.03,8.97,13.38,8.4534,7164.58,49.81,Pound,Yen
+China,Yuan Renminbi,-2.71,8.13,0.68,2.7709,4937.8,30.18,Taka,Rupiah
+Indonesia,Rupiah,3.18,17.51,16.36,2.6295,6201.4,73.0,Tenge,Dollar
+Indonesia,Rupiah,7.76,0.07,16.86,9.1698,1513.94,66.68,Peso,Ruble
+Liberia,Dollar,-2.18,29.76,11.46,3.1583,611.02,12.99,Real,Euro
+Poland,Zloty,-1.21,0.85,14.41,4.5724,8103.76,82.75,Franc,Euro
+Norway,Krone,6.53,11.88,11.54,7.0159,3443.85,94.73,Peso,Dong
+Russia,Ruble,-9.42,29.24,9.57,8.4151,3885.63,94.76,Rupiah,Rupiah
+Canada,Dollar,-1.84,15.02,9.51,4.9008,6407.51,80.69,Yuan Renminbi,Rial
+China,Yuan Renminbi,3.13,20.35,10.38,2.0925,5965.1,61.55,Yuan Renminbi,Litas
+Philippines,Peso,-2.25,8.57,9.03,5.0352,8753.51,57.46,Rial,Dirham
+Russia,Ruble,-9.38,27.41,1.34,6.4009,4281.72,52.49,Ruble,Lev
+Indonesia,Rupiah,-7.46,2.48,18.99,6.5552,9559.68,67.33,Naira,Zloty
+Ukraine,Hryvnia,2.94,5.64,14.19,7.9258,8251.4,7.2,Dollar,Guarani
+Malta,Euro,-4.5,28.08,7.19,6.6856,743.59,8.93,Peso,Yuan Renminbi
+Indonesia,Rupiah,2.99,28.5,17.94,3.8631,9645.65,28.32,Euro,Dollar
+China,Yuan Renminbi,2.8,9.9,6.1,4.9276,5592.31,87.53,Yuan Renminbi,Kuna
+Peru,Sol,6.74,27.09,1.83,4.8263,5901.68,28.74,Hryvnia,Ruble
+Brazil,Real,-6.18,25.23,0.62,4.1634,6668.54,79.08,Gourde,Shilling
+Ukraine,Hryvnia,-8.59,16.01,7.22,0.7695,2778.65,27.9,Yen,Peso
+Russia,Ruble,5.51,19.65,19.09,6.8589,4522.67,53.02,Krona,Yuan Renminbi
+Egypt,Pound,-6.85,27.2,0.43,4.098,8330.21,88.7,Krona,Yuan Renminbi
+Portugal,Euro,-6.82,12.08,14.32,0.5001,9978.33,95.9,Rupiah,Ruble
+Peru,Sol,2.8,20.96,19.85,7.8468,2873.28,98.38,Dollar,Ruble
+Ethiopia,Birr,-2.31,15.42,3.05,8.7023,9484.17,61.35,Yuan Renminbi,Krona
+Thailand,Baht,-5.27,2.45,13.51,6.6401,3143.58,45.61,Tugrik,Yen
+Uganda,Shilling,8.58,17.7,19.6,2.5699,1165.52,1.86,Quetzal,Zloty
+Poland,Zloty,1.54,12.97,17.58,1.7371,3298.67,36.24,Yuan Renminbi,Yuan Renminbi
+Poland,Zloty,-7.3,28.79,8.72,2.6072,8122.58,69.68,Rupiah,Euro
+China,Yuan Renminbi,-0.45,21.5,13.35,1.1613,903.22,56.97,Yen,Ruble
+Philippines,Peso,7.1,6.35,13.38,8.5833,3490.01,11.55,Euro,Real
+Tanzania,Shilling,-5.97,21.68,13.37,1.0801,8143.98,90.54,Dong,Krona
+Indonesia,Rupiah,8.67,28.75,18.38,3.8816,8845.93,12.77,Yen,Rupiah
+Afghanistan,Afghani,5.09,24.25,11.28,7.3578,9534.96,9.64,Yuan Renminbi,Rupiah
+Argentina,Peso,-1.54,10.96,17.31,4.4274,7628.72,0.49,Lev,Yuan Renminbi
+China,Yuan Renminbi,-6.68,17.32,2.85,6.1543,5430.97,32.92,Yuan Renminbi,Dollar
+Indonesia,Rupiah,6.98,6.21,2.11,9.5967,3657.95,91.42,Yuan Renminbi,Dirham
+Tanzania,Shilling,5.63,3.1,10.25,9.7971,853.7,87.67,Peso,Koruna
+Germany,Euro,-1.99,20.56,5.77,7.0733,6459.38,13.89,Yuan Renminbi,Ruble
+Czech Republic,Koruna,8.83,18.31,11.77,6.3832,7170.23,73.8,Dollar,Dollar
+France,Euro,-3.79,14.7,12.15,6.3793,8636.17,33.19,Boliviano,Rupiah
+China,Yuan Renminbi,9.0,17.13,16.8,4.5706,2298.95,72.35,Rupiah,Ruble
+Russia,Ruble,-3.82,0.29,10.06,9.0124,6566.17,23.76,Yuan Renminbi,Dollar
+China,Yuan Renminbi,-8.59,15.34,18.11,7.6425,8757.22,71.3,Franc,Euro
+Czech Republic,Koruna,-3.93,20.95,19.03,4.0904,741.51,89.05,Pound,Euro
+Indonesia,Rupiah,-6.03,5.49,15.07,9.1144,2475.0,87.42,Ringgit,Dollar
+South Africa,Rand,7.04,4.23,1.08,3.2515,9894.54,0.7,Yen,Franc
+Mexico,Peso,1.12,4.72,11.29,0.3651,3919.95,83.88,Yuan Renminbi,Baht
+Japan,Yen,-6.67,0.09,14.41,7.1612,6884.4,92.6,Peso,Euro
+Brazil,Real,-6.54,24.79,2.62,2.4697,2037.55,46.55,Dollar,Euro
+France,Euro,9.14,1.97,15.66,4.6414,799.53,49.21,Euro,Euro
+Moldova,Leu,-7.28,13.67,12.35,8.8401,5930.97,99.57,Euro,Yuan Renminbi
+China,Yuan Renminbi,5.35,20.08,1.65,2.8572,6140.69,59.0,Rupiah,Rupiah
+Indonesia,Rupiah,6.2,10.14,13.48,7.9308,1672.27,27.83,Zloty,Rial
+China,Yuan Renminbi,1.09,27.89,15.99,7.5346,9674.44,0.27,Yuan Renminbi,Euro
+Ivory Coast,Franc,-6.39,17.85,3.9,4.1436,7180.84,84.0,Euro,Dram
+Ukraine,Hryvnia,-2.48,29.8,3.18,7.4696,1282.45,84.38,Quetzal,Baht
+Ukraine,Hryvnia,8.82,7.94,14.24,7.9797,7877.61,70.96,Euro,Yuan Renminbi
+Sweden,Krona,-3.59,1.92,10.28,5.7092,7256.35,24.97,Yuan Renminbi,Krone
+China,Yuan Renminbi,-0.11,6.04,4.32,3.5694,2850.71,91.21,Euro,Euro
+Belarus,Ruble,4.88,29.46,1.29,7.334,8553.25,57.47,Shilling,Franc
+Peru,Sol,-7.38,17.11,19.67,3.1799,3135.83,3.06,Ruble,Dollar
+Thailand,Baht,9.39,14.6,17.71,7.6805,9643.02,38.89,Ruble,Euro
+Morocco,Dirham,9.56,6.5,19.79,0.1687,4743.45,16.74,Peso,Rupiah
+Ukraine,Hryvnia,-5.28,14.07,9.79,0.3766,9786.02,61.39,Dong,Euro
+China,Yuan Renminbi,1.77,9.17,3.85,8.2642,3035.0,87.55,Dollar,Yuan Renminbi
+Brazil,Real,-8.88,26.59,7.38,8.5766,4156.13,2.26,Yuan Renminbi,Yuan Renminbi
+Kenya,Shilling,4.24,16.57,12.4,7.7637,9679.86,79.64,Euro,Euro
+Cyprus,Euro,7.21,25.98,12.49,1.4531,1320.19,85.52,Peso,Rupiah
+Canada,Dollar,3.35,7.52,5.6,7.9985,1685.25,22.89,Ruble,Rupiah
+Panama,Balboa,-6.38,13.71,6.46,4.2421,6355.84,17.98,Peso,Franc
+China,Yuan Renminbi,-2.83,16.52,8.11,2.5744,6504.22,95.65,Rupee,Zloty
+China,Yuan Renminbi,-9.54,26.88,2.43,5.8948,9010.89,13.72,Dollar,Yuan Renminbi
+Poland,Zloty,2.08,3.56,17.78,0.9107,9879.81,3.95,Yuan Renminbi,Hryvnia
+Gabon,Franc,-0.17,19.56,16.06,0.3217,9677.85,23.53,Rupiah,Hryvnia
+China,Yuan Renminbi,-7.6,26.25,4.86,8.9075,2967.19,9.44,Yuan Renminbi,Dollar
+Peru,Sol,4.85,3.4,2.25,4.8941,4376.41,81.57,Ruble,Tenge
+Nigeria,Naira,4.28,23.42,1.78,8.8294,1812.52,4.32,Krona,Dirham
+France,Euro,-0.2,9.01,3.44,3.0275,1434.68,37.11,Rupiah,Ruble
+Philippines,Peso,9.9,26.54,13.02,3.4155,8555.38,37.4,Peso,Yuan Renminbi
+Sudan,Pound,5.24,8.21,9.61,1.828,7382.55,42.66,Yuan Renminbi,Rupiah
+Philippines,Peso,-1.42,16.22,15.39,8.1692,1332.75,47.55,Bolivar,Euro
+Portugal,Euro,3.58,24.7,17.03,2.6059,3592.33,21.75,Dollar,Zloty
+Argentina,Peso,-4.23,2.78,5.99,3.5388,4446.49,79.3,Rupiah,Yuan Renminbi
+China,Yuan Renminbi,8.98,1.99,18.16,4.2902,7739.41,26.72,Yuan Renminbi,Yuan Renminbi
+Mongolia,Tugrik,-4.67,4.32,7.77,6.6753,5132.62,47.21,Rupiah,Yuan Renminbi
+China,Yuan Renminbi,-8.2,16.36,0.18,5.6363,9510.54,78.41,Yuan Renminbi,Yuan Renminbi
+Bulgaria,Lev,-5.38,3.34,1.61,9.1161,4951.65,46.97,Yuan Renminbi,Krona
+Germany,Euro,-7.95,18.17,4.69,5.9974,8072.44,60.87,Euro,Rupiah
+Philippines,Peso,-3.06,3.46,17.61,2.0849,1963.12,69.76,Peso,Rupiah
+Poland,Zloty,6.46,3.48,17.26,5.5872,4352.45,7.37,Euro,Real
+France,Euro,2.37,25.88,3.18,1.2444,8602.07,96.55,Gourde,Yen
+Gambia,Dalasi,8.32,25.13,12.96,6.4486,5491.84,21.45,Zloty,Dinar
+Portugal,Euro,9.92,10.51,7.38,9.339,5016.47,93.62,Naira,Yuan Renminbi
+Poland,Zloty,-5.27,16.91,8.28,7.3184,9637.11,15.59,Yuan Renminbi,Rupiah
+Bangladesh,Taka,4.25,23.01,3.3,4.1972,4708.01,25.19,Rupiah,Krona
+Russia,Ruble,0.16,24.21,16.58,5.7647,7773.2,88.65,Yuan Renminbi,Yuan Renminbi
+Portugal,Euro,-9.77,10.05,17.68,0.1876,8742.43,0.71,Krona,Rupiah
+Indonesia,Rupiah,8.75,1.91,1.66,0.9244,2962.54,9.51,Rand,Rupiah
+Brazil,Real,4.74,24.67,14.08,6.7816,6514.97,74.65,Yuan Renminbi,Dinar
+Indonesia,Rupiah,8.39,9.34,6.68,4.2391,8770.39,2.45,Zloty,Marka
+Thailand,Baht,-6.88,14.58,18.93,6.5242,5320.07,0.29,Shilling,Yuan Renminbi
+Czech Republic,Koruna,6.62,12.05,11.88,4.051,8803.46,71.02,Yuan Renminbi,Taka
+Russia,Ruble,-7.43,9.35,14.86,8.4764,3934.77,5.51,Baht,Yuan Renminbi
+Philippines,Peso,-6.44,13.55,4.47,3.4159,5698.5,38.34,Cordoba,Dollar
+Indonesia,Rupiah,-8.93,15.5,12.96,8.3131,3156.79,44.57,Peso,Euro
+Thailand,Baht,-6.86,23.71,3.29,7.4699,4703.98,48.84,Tala,Rupiah
+Colombia,Peso,-3.92,3.81,16.82,1.9008,132.0,85.17,Dram,Rupiah
+China,Yuan Renminbi,6.39,25.96,9.98,6.4192,775.79,71.42,Euro,Manat
+Russia,Ruble,6.73,5.65,19.94,7.871,3003.12,92.17,Peso,Baht
+Mexico,Peso,4.11,21.61,3.61,5.027,1908.18,22.71,Koruna,Yuan Renminbi
+Indonesia,Rupiah,2.74,14.86,14.26,2.56,3740.29,53.19,Rand,Shekel
+Brazil,Real,1.24,13.88,8.6,6.1994,8111.92,5.94,Euro,Ringgit
+China,Yuan Renminbi,8.35,10.47,8.48,6.9591,4233.71,62.09,Rupiah,Rupiah
+Slovenia,Euro,9.55,13.11,4.41,0.7011,2094.67,71.17,Ruble,Yuan Renminbi
+Indonesia,Rupiah,-8.84,8.65,15.93,2.6546,357.63,4.13,Peso,Shekel
+China,Yuan Renminbi,-0.3,29.05,19.5,7.7261,3624.66,78.28,Ruble,Yuan Renminbi
+Bolivia,Boliviano,9.65,23.65,18.74,2.4403,7753.0,53.31,Quetzal,Yuan Renminbi
+Argentina,Peso,-3.96,23.15,4.84,4.9432,2467.81,90.12,Afghani,Euro
+Dominican Republic,Peso,6.26,14.12,6.9,0.7802,297.56,54.81,Sol,Rupee
+Poland,Zloty,-3.37,9.83,2.69,6.5364,7335.89,22.56,Yuan Renminbi,Ruble
+Armenia,Dram,-7.3,9.86,5.76,0.9855,3498.91,46.47,Dollar,Zloty
+Nigeria,Naira,-2.29,19.0,5.88,3.0872,6991.06,83.04,Euro,Rial
+Indonesia,Rupiah,-9.01,25.76,17.11,0.0984,4038.31,22.26,Rial,Yuan Renminbi
+China,Yuan Renminbi,-0.82,27.57,4.09,1.9207,7164.48,61.27,Boliviano,Real
+Brazil,Real,-9.31,25.63,9.03,4.242,9287.02,97.46,Hryvnia,Euro
+United States,Dollar,8.63,0.08,3.92,5.1328,9167.79,51.51,Kwanza,Shilling
+Vietnam,Dong,3.56,17.83,5.98,3.9208,5347.76,20.53,Rupiah,Krona
+Togo,Franc,-1.61,5.58,0.08,4.9064,3730.74,84.43,Real,Ruble
+Guatemala,Quetzal,-4.8,17.69,9.25,3.2709,8796.53,15.55,Balboa,Yuan Renminbi
+China,Yuan Renminbi,-7.95,12.84,18.78,1.8115,6307.33,79.35,Dinar,Yuan Renminbi
+Japan,Yen,0.77,27.86,9.06,5.0031,7247.64,7.68,Zloty,Peso
+Samoa,Tala,7.06,10.37,18.13,2.4939,2371.5,80.68,Real,Yuan Renminbi
+Brazil,Real,-1.02,1.77,6.3,5.6973,3268.97,16.02,Real,Yuan Renminbi
+Ireland,Euro,-3.42,2.59,13.09,2.879,4736.46,99.37,Euro,Lev
+Philippines,Peso,1.19,26.48,9.46,1.8425,7311.71,56.99,Peso,Rupiah
+Indonesia,Rupiah,-8.36,27.38,12.45,5.2741,7939.92,88.64,Somoni,Dollar
+Poland,Zloty,-7.77,18.15,11.08,0.0148,1813.12,70.74,Dinar,Kuna
+China,Yuan Renminbi,-5.19,11.36,11.49,9.5594,5764.82,84.38,Dollar,Zloty
+Colombia,Peso,-9.15,28.94,10.84,3.5101,430.97,58.09,Pound,Rupiah
+Ukraine,Hryvnia,8.06,0.75,17.79,1.7485,4076.52,71.09,Quetzal,Krona
+Indonesia,Rupiah,-5.77,8.39,15.64,5.975,5720.02,76.43,Krona,Rupiah
+Mongolia,Tugrik,0.04,20.07,18.4,7.9728,4286.22,80.38,Rupiah,Euro
+China,Yuan Renminbi,6.22,6.41,18.65,9.3551,4518.69,63.94,Yuan Renminbi,Rupee
+Estonia,Euro,5.83,12.81,2.52,9.5576,5521.54,92.35,Yuan Renminbi,Kwacha
+Philippines,Peso,-1.27,22.37,16.08,3.1805,7826.81,76.64,Dollar,Rial
+Peru,Sol,-9.92,1.43,9.47,1.7637,8527.78,14.44,Real,Yuan Renminbi
+United States,Dollar,6.43,18.27,12.23,6.4768,7637.81,48.3,Euro,Koruna
+Greece,Euro,-1.02,4.84,11.95,0.1292,1087.05,90.5,Euro,Peso
+Poland,Zloty,-2.18,18.03,0.22,3.6017,8910.62,13.34,Dollar,Ruble
+Philippines,Peso,6.81,24.49,8.46,3.3367,9194.39,31.72,Euro,Rupiah
+China,Yuan Renminbi,-5.26,20.72,17.74,4.5706,5868.22,57.23,Kwacha,Real
+Russia,Ruble,-3.99,1.82,12.39,6.3676,3003.11,16.91,Dollar,Zloty
+United States,Dollar,6.35,10.66,2.98,5.13,8064.45,74.48,Baht,Sol
+Indonesia,Rupiah,-0.07,18.83,3.28,3.6369,4048.53,98.37,Ruble,Rupee
+Dominica,Dollar,-2.71,1.59,11.97,2.3372,7273.78,29.14,Lev,Yuan Renminbi
+France,Euro,0.16,2.67,14.29,4.3623,3481.33,33.89,Zloty,Euro
+Indonesia,Rupiah,-3.23,15.93,6.59,0.8068,8024.58,15.71,Peso,Ruble
+Albania,Lek,-4.44,10.08,6.27,7.5638,481.33,13.39,Sol,Koruna
+Poland,Zloty,1.27,1.6,11.71,3.1428,9656.7,92.23,Rupee,Yuan Renminbi
+Pakistan,Rupee,8.21,18.66,12.96,7.6414,5737.29,6.86,Hryvnia,Rupiah
+Russia,Ruble,3.84,2.8,18.85,3.4931,6543.52,63.18,Yuan Renminbi,Lempira
+Canada,Dollar,8.77,25.42,2.43,2.3499,9735.99,75.72,Rupiah,Zloty
+Finland,Euro,-2.82,7.89,11.59,3.0032,9196.0,21.92,Peso,Denar
+Indonesia,Rupiah,-2.51,25.78,8.61,9.7565,878.16,2.65,Zloty,Baht
+China,Yuan Renminbi,3.11,18.5,15.92,0.1839,5841.28,83.91,Rand,Yuan Renminbi
+Czech Republic,Koruna,0.14,4.68,6.59,7.0828,5469.15,17.87,Peso,Rupiah
+Czech Republic,Koruna,6.31,23.98,6.24,1.705,2980.91,67.75,Zloty,Hryvnia
+Thailand,Baht,7.35,24.94,12.41,1.443,3662.36,88.62,Real,Krone
+Austria,Euro,-5.89,2.48,3.43,7.5811,6254.56,26.28,Real,Zloty
+El Salvador,Dollar,6.18,5.96,10.65,5.7293,9224.67,4.14,Peso,Yuan Renminbi
+Russia,Ruble,-0.54,0.87,14.28,4.0538,2889.04,34.51,Rupiah,Ruble
+China,Yuan Renminbi,-4.09,21.81,14.05,8.7905,5026.12,9.41,Peso,Euro
+American Samoa,Dollar,6.55,20.39,9.56,6.3461,1497.45,96.24,Rupiah,Gourde
+Thailand,Baht,9.34,4.96,2.12,9.8438,1733.95,62.37,Zloty,Yuan Renminbi
+Zambia,Kwacha,1.0,25.72,12.48,2.8982,8305.53,38.09,Peso,Baht
+Russia,Ruble,5.76,12.55,11.78,6.2969,1953.42,52.73,Ruble,Yuan Renminbi
+Pakistan,Rupee,-3.01,19.14,12.42,9.1508,6927.42,71.79,Zloty,Peso
+Venezuela,Bolivar,-6.17,20.67,15.95,7.0846,8284.63,32.9,Peso,Ruble
+France,Euro,7.53,7.26,7.09,6.9033,8368.98,44.22,Krona,Dollar
+Bulgaria,Lev,-6.03,11.7,9.3,7.7117,6393.92,54.15,Afghani,Ruble
+Togo,Franc,8.83,18.14,5.1,8.9344,7271.29,99.54,Litas,Cedi
+Russia,Ruble,5.79,17.18,0.48,9.6869,8318.91,49.53,Bolivar,Euro
+Tajikistan,Somoni,-3.96,10.17,13.25,3.0031,8756.0,96.06,Yuan Renminbi,Dollar
+Ukraine,Hryvnia,-5.95,18.59,18.32,0.8941,7198.88,98.5,Dollar,Zloty
+Canada,Dollar,-3.65,24.88,5.43,1.2034,9900.67,16.55,Peso,Rupiah
+Sweden,Krona,-0.41,4.92,0.6,7.2495,2821.87,70.66,Yuan Renminbi,Peso
+China,Yuan Renminbi,6.78,8.64,19.52,0.9731,956.73,15.72,Dollar,Yuan Renminbi
+Poland,Zloty,6.28,6.32,7.04,2.6099,6127.82,75.05,Rial,Ruble
+Armenia,Dram,-7.0,27.4,19.38,3.1873,2267.48,83.32,Ruble,Yen
+Zambia,Kwacha,-8.47,11.32,12.81,4.5571,3401.14,23.63,Euro,Rupiah
+Senegal,Franc,-9.15,5.97,1.26,7.9298,4412.81,68.34,Yuan Renminbi,Euro
+Greece,Euro,8.4,22.78,19.54,9.7044,8153.16,96.37,Franc,Dinar
+Vietnam,Dong,9.22,1.63,9.76,7.492,4890.32,51.07,Peso,Zloty
+Indonesia,Rupiah,-3.9,4.75,5.43,3.6895,9829.74,89.36,Euro,Euro
+Brazil,Real,-2.72,29.93,10.4,1.8005,8652.99,56.53,Yuan Renminbi,Euro
+Ukraine,Hryvnia,6.73,6.8,15.67,6.4048,9429.48,18.55,Yuan Renminbi,Lev
+Philippines,Peso,-9.17,25.17,19.05,5.3456,3471.06,83.57,Peso,Rand
+Peru,Sol,9.44,10.96,14.88,9.8071,3619.91,31.24,Won,Yuan Renminbi
+Czech Republic,Koruna,-7.94,0.45,3.67,6.4947,5352.73,78.64,Yuan Renminbi,Rupee
+Indonesia,Rupiah,5.78,1.11,15.25,0.5174,403.24,72.77,Yuan Renminbi,Yuan Renminbi
+Egypt,Pound,-3.45,2.01,0.27,5.5153,1803.34,27.64,Dinar,Real
+Mexico,Peso,-2.02,24.16,12.19,8.6918,1989.6,18.11,Ruble,Rupiah
+China,Yuan Renminbi,-3.9,4.19,4.11,9.4474,4420.42,70.57,Sol,Rupiah
+Indonesia,Rupiah,-6.61,12.19,12.79,9.5443,414.68,70.47,Rupiah,Yuan Renminbi
+China,Yuan Renminbi,-8.8,29.31,15.64,6.4309,4647.39,4.25,Yuan Renminbi,Baht
+France,Euro,8.57,0.06,6.36,4.4585,2950.62,49.12,Yuan Renminbi,Yen
+Malawi,Kwacha,0.33,4.15,6.76,2.3676,6960.95,23.12,Rupiah,Ruble
+Belarus,Ruble,-8.42,26.1,13.35,3.4222,6181.93,6.34,Won,Rupiah
+Indonesia,Rupiah,-2.97,20.29,1.76,2.5039,3.63,39.16,Ruble,Yuan Renminbi
+Iran,Rial,7.0,7.07,13.99,3.8148,9482.03,68.99,Dollar,Koruna
+Tunisia,Dinar,5.98,10.96,16.53,2.0501,8323.1,69.04,Yuan Renminbi,Rial
+Czech Republic,Koruna,0.69,0.84,5.3,8.6004,9582.71,48.19,Yuan Renminbi,Yuan Renminbi
+Indonesia,Rupiah,-9.22,10.4,10.56,8.5928,3840.75,99.35,Yuan Renminbi,Real
+China,Yuan Renminbi,-5.34,11.27,3.94,6.7249,2323.29,35.54,Koruna,Yuan Renminbi
+Chad,Franc,0.18,23.27,4.2,2.9378,6192.06,97.97,Peso,Rial
+Portugal,Euro,5.14,7.77,4.48,8.7474,4209.6,18.34,Sol,Pound
+Philippines,Peso,2.08,16.61,15.07,5.8287,8652.35,5.62,Franc,Yuan Renminbi
+Poland,Zloty,-6.29,16.93,7.27,1.8493,2532.83,27.85,Tugrik,Euro
+Russia,Ruble,3.61,9.62,17.98,5.3344,1693.22,99.8,Zloty,Yuan Renminbi
+Canada,Dollar,-1.31,20.53,6.69,4.3164,5659.81,42.98,Dinar,Peso
+China,Yuan Renminbi,5.79,21.83,11.8,5.7666,1079.48,32.12,Peso,Zloty
+Pakistan,Rupee,-3.68,26.55,3.6,0.954,1650.89,33.92,Rupiah,Yuan Renminbi
+Argentina,Peso,-0.18,28.77,6.14,6.0943,2221.97,77.74,Koruna,Litas
+Serbia,Dinar,1.86,2.85,1.99,9.3867,6325.41,73.51,Shekel,Pound
+Sweden,Krona,4.5,15.83,12.72,6.1792,2107.16,24.67,Quetzal,Hryvnia
+Philippines,Peso,-6.44,4.76,1.54,6.3087,2457.7,17.24,Yuan Renminbi,Yuan Renminbi
+China,Yuan Renminbi,7.9,7.62,7.69,4.5412,8556.06,78.11,Peso,Naira
+Bulgaria,Lev,3.35,14.66,8.18,0.4151,5773.94,49.23,Rupiah,Euro
+Greece,Euro,8.91,14.56,4.81,2.8043,2149.83,96.54,Koruna,Dollar
+China,Yuan Renminbi,-6.83,18.54,8.81,6.6354,9615.7,10.91,Yuan Renminbi,Peso
+Palestinian Territory,Shekel,-1.23,20.24,11.04,8.9968,9764.07,9.78,Krona,Koruna
+Pakistan,Rupee,-7.56,25.26,6.44,4.4736,3664.36,80.21,Rupiah,Rupiah
+Brazil,Real,-7.82,0.53,6.82,6.3212,7792.04,53.95,Euro,Balboa
+Mozambique,Metical,-8.47,25.23,18.9,5.9262,9890.62,36.23,Koruna,Yen
+Sri Lanka,Rupee,0.15,7.21,17.06,1.6449,3874.99,13.38,Rupiah,Baht
+China,Yuan Renminbi,4.4,1.98,8.23,8.6788,2971.21,47.87,Franc,Dirham
+Sweden,Krona,5.66,2.86,3.13,1.4222,4332.42,52.57,Dollar,Balboa
+Syria,Pound,-8.14,19.33,6.98,5.8919,9060.29,38.81,Ruble,Koruna
+Cuba,Peso,0.17,18.02,13.49,8.1086,4597.8,76.7,Peso,Yuan Renminbi
+United Kingdom,Pound,-2.92,20.74,1.07,1.6565,7715.94,67.09,Koruna,Rial
+Indonesia,Rupiah,-0.53,9.19,1.08,1.4615,6905.87,41.21,Rand,Zloty
+Sweden,Krona,-0.46,3.92,18.46,2.1719,4325.68,53.18,Peso,Peso
+Indonesia,Rupiah,-5.0,20.99,13.12,0.1886,2841.74,27.4,Dram,Real
+China,Yuan Renminbi,-4.2,8.09,18.36,3.2642,2567.61,8.04,Franc,Kwacha
+China,Yuan Renminbi,5.56,18.43,0.03,4.0852,545.47,22.2,Dollar,Gourde
+Sweden,Krona,8.11,9.2,11.62,6.1531,4209.31,46.94,Euro,Sol
+Argentina,Peso,5.81,11.81,4.64,9.7434,5853.51,93.16,Dollar,Rupiah
+Kenya,Shilling,1.22,4.96,19.34,1.7849,9329.32,36.97,Koruna,Franc
+Russia,Ruble,3.75,12.55,12.22,0.6929,1206.59,83.95,Rupiah,Real
+Russia,Ruble,1.44,2.9,12.06,1.701,9511.45,77.1,Koruna,Rand
+China,Yuan Renminbi,6.61,10.52,12.31,9.5515,8746.55,83.66,Zloty,Krona
+France,Euro,-9.22,20.13,13.79,3.4739,8042.94,35.51,Balboa,Dirham
+Philippines,Peso,9.04,4.18,16.4,6.9924,9632.95,3.25,Rupee,Peso
+China,Yuan Renminbi,0.17,23.81,13.99,1.556,6387.9,60.6,Yuan Renminbi,Yuan Renminbi
+China,Yuan Renminbi,-7.67,5.21,9.91,3.5265,1359.49,65.57,Dollar,Rupiah
+Sweden,Krona,-2.08,7.99,13.8,7.2808,4827.85,12.96,Peso,Hryvnia
+Togo,Franc,9.7,11.77,14.89,6.0132,5218.32,16.45,Rupiah,Euro
+China,Yuan Renminbi,-6.1,17.38,6.35,6.8005,1358.2,39.93,Yuan Renminbi,Yuan Renminbi
+Argentina,Peso,9.66,11.68,18.36,6.239,9520.0,67.12,Peso,Yuan Renminbi
+Malaysia,Ringgit,5.8,7.91,15.09,1.7783,1672.57,72.29,Yuan Renminbi,Manat
+China,Yuan Renminbi,-5.3,5.85,5.7,8.9939,1882.76,88.5,Euro,Dollar
+Russia,Ruble,9.18,19.24,10.49,7.652,675.42,47.9,Pound,Rupiah
+Kazakhstan,Tenge,-6.32,13.77,19.79,2.4435,8723.47,97.2,Yuan Renminbi,Yuan Renminbi
+Norway,Krone,-9.23,17.37,15.1,2.7327,5241.15,59.16,Rupiah,Real
+Egypt,Pound,-8.7,4.56,0.31,9.4009,9855.0,89.08,Lev,Peso
+Colombia,Peso,5.97,26.53,12.5,3.3212,7915.0,37.92,Peso,Dollar
+Iran,Rial,-5.34,22.29,14.09,6.7738,2590.66,15.11,Dram,Ariary
+China,Yuan Renminbi,1.65,19.06,13.71,8.0416,7759.69,98.88,Rand,Afghani
+Canada,Dollar,-3.63,27.63,9.7,1.4944,4394.04,42.6,Lempira,Peso
+Japan,Yen,-1.04,17.21,12.53,1.6687,335.16,62.09,Baht,Franc
+Colombia,Peso,5.55,10.75,0.06,2.1772,8508.44,17.54,Sol,Rupiah
+Syria,Pound,-4.82,13.14,7.54,1.5774,851.92,74.71,Yuan Renminbi,Rupee
+Ukraine,Hryvnia,-8.59,20.05,2.72,8.2736,5218.41,73.68,Dollar,Zloty
+China,Yuan Renminbi,2.6,23.73,7.56,6.7052,4604.53,2.13,Lari,Zloty
+Morocco,Dirham,-7.81,0.08,7.26,3.4531,8300.29,96.54,Euro,Ruble
+Indonesia,Rupiah,-8.14,9.92,2.41,0.6374,5785.01,51.45,Sol,Rupiah
+Thailand,Baht,4.33,8.57,10.69,9.2304,5715.51,56.85,Ruble,Shekel
+Poland,Zloty,-5.99,20.64,11.19,7.9896,7274.6,93.97,Krona,Peso
+China,Yuan Renminbi,8.73,9.04,11.44,8.0372,3962.78,93.28,Zloty,Ruble
+Brazil,Real,-7.14,5.67,11.11,7.2929,7109.81,40.74,Yuan Renminbi,Yuan Renminbi
+Indonesia,Rupiah,1.66,11.18,16.14,2.1634,1282.52,92.16,Zloty,Yuan Renminbi
+Czech Republic,Koruna,-3.49,14.29,0.13,4.1651,2068.73,15.59,Hryvnia,Hryvnia
+China,Yuan Renminbi,4.47,14.18,12.17,8.8419,7321.36,86.03,Tugrik,Real
+Portugal,Euro,-3.38,20.66,5.42,3.4116,8949.52,16.62,Yuan Renminbi,Euro
+Philippines,Peso,6.56,25.14,12.37,8.2832,7708.86,46.95,Colon,Rupiah
+Somalia,Shilling,3.02,2.25,17.13,6.2323,4436.31,3.22,Rupiah,Yuan Renminbi
+Indonesia,Rupiah,-7.47,5.14,16.33,1.7596,9334.78,83.16,Dinar,Real
+China,Yuan Renminbi,-5.2,2.95,11.49,3.356,9429.51,43.65,Euro,Krona
+Bosnia and Herzegovina,Marka,3.06,21.78,14.42,0.4953,2822.02,0.11,Peso,Dong
+China,Yuan Renminbi,-2.6,7.79,16.97,6.5167,7333.88,53.65,Yuan Renminbi,Yuan Renminbi
+Indonesia,Rupiah,-5.61,28.02,6.39,8.083,3414.48,88.52,Metical,Sol
+China,Yuan Renminbi,-2.06,9.06,18.67,2.4779,9424.05,62.6,Yuan Renminbi,Yuan Renminbi
+Philippines,Peso,-8.46,2.56,1.11,9.1169,7954.15,50.6,Krona,Afghani
+Poland,Zloty,2.83,11.6,3.56,4.5834,7929.48,10.04,Euro,Euro
+Uruguay,Peso,0.47,29.58,2.68,1.8386,1211.71,95.25,Ruble,Yuan Renminbi
+Trinidad and Tobago,Dollar,3.57,15.55,13.15,8.1545,5716.85,50.55,Zloty,Krona
+Philippines,Peso,-9.81,17.46,0.9,3.182,4476.3,24.88,Peso,Real
+Portugal,Euro,7.01,1.01,18.17,7.8592,6696.36,4.24,Peso,Franc
+China,Yuan Renminbi,-4.47,5.25,18.85,3.2419,8074.46,3.21,Baht,Ruble
+Philippines,Peso,8.34,24.6,4.24,6.668,1204.19,11.52,Yuan Renminbi,Koruna
+Sweden,Krona,-2.94,4.92,17.14,7.3678,7831.61,17.39,Yuan Renminbi,Rupiah
+Mozambique,Metical,-4.97,18.31,7.57,0.1797,6926.75,69.55,Kyat,Dinar
+Dominican Republic,Peso,6.98,7.7,8.82,7.74,7333.71,42.82,Yuan Renminbi,Rupiah
+Bosnia and Herzegovina,Marka,4.96,13.87,2.75,2.1653,8278.29,49.9,Somoni,Euro
+Russia,Ruble,0.81,4.53,17.83,0.6735,8060.99,82.85,Rupiah,Dram
+Canada,Dollar,-2.5,22.36,8.23,1.8861,3335.79,86.39,Yuan Renminbi,Peso
+Greece,Euro,-7.25,25.3,15.05,5.1346,3194.27,59.86,Rupiah,Yuan Renminbi
+Thailand,Baht,7.16,5.06,4.41,8.4,6283.06,46.89,Tenge,Rupiah
+Russia,Ruble,7.32,2.7,1.81,2.5057,9708.98,23.37,Krona,Ruble
+Croatia,Kuna,9.39,0.82,9.66,2.7352,5924.37,38.03,Dram,Yuan Renminbi
+Indonesia,Rupiah,-0.3,4.06,10.46,4.362,1518.39,72.36,Yuan Renminbi,Rupiah
+Finland,Euro,-4.24,13.78,15.93,9.5542,6005.24,54.39,Ruble,Ruble
+Czech Republic,Koruna,-3.86,4.58,17.53,7.761,1575.57,69.71,Real,Rupee
+Indonesia,Rupiah,-0.16,11.34,1.24,2.0893,2979.55,16.58,Baht,Yuan Renminbi
+Indonesia,Rupiah,-3.1,23.77,5.46,3.474,7758.99,37.63,Real,Yuan Renminbi
+China,Yuan Renminbi,-5.59,20.19,10.97,5.0738,5813.69,16.45,Pound,Leu
+Indonesia,Rupiah,-5.5,25.38,16.84,3.9697,3272.1,18.57,Yuan Renminbi,Peso
+Ukraine,Hryvnia,2.29,20.45,6.81,7.812,5411.92,63.3,Yuan Renminbi,Yuan Renminbi
+China,Yuan Renminbi,-0.3,1.63,2.54,3.2694,8269.06,36.65,Sol,Euro
+Indonesia,Rupiah,-8.6,13.25,14.8,9.8152,2550.22,46.88,Ruble,Koruna
+Canada,Dollar,8.76,28.07,16.38,9.4658,4069.44,0.85,Euro,Peso
+Chad,Franc,8.29,22.21,0.97,8.9021,4146.26,17.85,Rupiah,Yuan Renminbi
+China,Yuan Renminbi,1.68,12.61,15.41,4.8009,6628.3,13.78,Dinar,Ruble
+Sweden,Krona,3.92,27.68,0.93,0.834,939.06,4.12,Yuan Renminbi,Ruble
+Indonesia,Rupiah,7.44,12.73,11.76,2.2834,471.16,88.51,Yuan Renminbi,Real
+China,Yuan Renminbi,-9.81,9.52,7.44,1.6644,5013.68,73.24,Ruble,Peso
+Philippines,Peso,2.66,7.73,7.47,1.4829,3818.22,95.95,Krona,Birr
+Micronesia,Dollar,-0.39,23.58,4.33,3.9966,7133.16,74.64,Yuan Renminbi,Ruble
+Philippines,Peso,-9.13,8.99,1.39,8.7927,7794.15,97.02,Pound,Rial
+South Africa,Rand,4.1,22.7,18.63,6.9251,5849.02,34.56,Yen,Euro
+Philippines,Peso,-4.92,23.91,2.85,6.5289,2189.87,89.37,Tenge,Yuan Renminbi
+Philippines,Peso,-3.0,18.19,4.62,1.9851,5058.14,24.6,Euro,Yuan Renminbi
+Honduras,Lempira,-4.59,12.98,6.03,1.4007,7080.34,62.69,Yuan Renminbi,Dong
+China,Yuan Renminbi,-0.05,22.17,19.04,3.6833,5364.06,39.8,Yuan Renminbi,Pound
+Netherlands,Euro,7.75,12.84,17.84,0.6588,8648.57,66.82,Lempira,Peso
+Morocco,Dirham,6.36,29.35,18.18,7.0746,5414.75,47.03,Dollar,Yuan Renminbi
+Poland,Zloty,8.31,19.92,2.58,7.8771,4743.76,88.99,Ruble,Franc
+Poland,Zloty,4.78,5.57,2.47,1.4206,3005.47,19.99,Dollar,Rupiah
+France,Euro,8.25,7.99,15.78,4.0822,4315.01,16.33,Rupiah,Krona
+Tunisia,Dinar,-1.46,24.94,11.16,0.9889,4415.29,9.61,Yuan Renminbi,Rupiah
+Czech Republic,Koruna,5.97,8.71,15.6,6.9886,953.44,65.12,Ruble,Yuan Renminbi
+China,Yuan Renminbi,-3.34,16.51,10.66,3.2675,1002.42,74.12,Ruble,Tenge
+China,Yuan Renminbi,9.8,5.7,1.75,8.2562,3164.87,61.79,Yuan Renminbi,Dollar
+China,Yuan Renminbi,1.34,18.55,10.49,6.9414,6748.72,78.19,Dinar,Euro
+Indonesia,Rupiah,-0.98,7.02,17.9,9.8092,2306.35,92.16,Ruble,Yuan Renminbi
+China,Yuan Renminbi,3.1,8.63,6.3,5.2751,5650.26,14.97,Rand,Euro
+Palestinian Territory,Shekel,0.36,29.65,2.69,2.2495,3656.0,45.11,Lek,Euro
+Cuba,Peso,7.77,28.58,1.25,8.1499,2243.54,8.28,Peso,Euro
+Portugal,Euro,-2.74,22.06,19.2,6.9455,6636.91,12.32,Yuan Renminbi,Denar
+United States,Dollar,-1.06,21.77,10.38,9.6333,5360.57,84.64,Rupee,Rial
+Guinea,Franc,-8.97,14.16,11.14,5.0071,646.37,66.41,Euro,Euro
+Philippines,Peso,4.31,3.46,8.42,1.768,1943.58,88.1,Dinar,Naira
+Iran,Rial,-8.04,2.65,12.53,1.38,4530.43,42.94,Dollar,Baht
+Macedonia,Denar,-2.5,3.07,5.14,0.9724,7976.28,91.31,Euro,Yuan Renminbi
+Netherlands,Euro,-5.25,8.33,6.24,7.051,3216.24,77.02,Hryvnia,Real
+Indonesia,Rupiah,-6.01,13.13,15.94,5.2037,9580.06,64.93,Zloty,Rupiah
+China,Yuan Renminbi,3.36,11.4,15.97,2.1925,88.74,86.81,Yen,Koruna
+Cyprus,Euro,3.58,8.18,15.68,0.0927,784.83,38.11,Euro,Yuan Renminbi
+Sri Lanka,Rupee,-8.97,4.28,12.43,6.5027,6068.86,46.59,Euro,Krona
+China,Yuan Renminbi,2.03,22.39,9.99,6.0633,7424.17,68.81,Rupiah,Dollar
+China,Yuan Renminbi,-8.62,14.85,4.41,8.4798,6429.73,50.94,Yuan Renminbi,Ruble
+France,Euro,1.07,25.68,16.12,2.4257,879.74,86.17,Kyat,Ruble
+China,Yuan Renminbi,-2.28,28.59,9.06,4.7428,7685.5,56.17,Dinar,Rial
+Colombia,Peso,3.17,18.95,12.42,0.4604,7849.86,59.62,Rupiah,Yuan Renminbi
+Ukraine,Hryvnia,9.83,24.44,19.6,5.2528,34.22,56.88,Yuan Renminbi,Kwacha
+Macedonia,Denar,-0.14,9.41,6.54,6.3349,3496.98,78.63,Peso,Franc
+Philippines,Peso,-4.5,17.91,19.21,5.7093,2216.5,94.22,Yuan Renminbi,Yuan Renminbi
+Latvia,Euro,-3.61,28.01,15.47,1.3467,8291.78,3.24,Krona,Yuan Renminbi
+Indonesia,Rupiah,2.53,28.75,9.1,5.0942,9269.7,46.21,Rupiah,Euro
+China,Yuan Renminbi,6.11,25.51,0.06,9.6102,9912.76,36.97,Euro,Peso
+Georgia,Lari,-1.96,6.01,10.08,0.4943,861.05,36.42,Ruble,Ruble
+Azerbaijan,Manat,-0.85,23.82,0.1,1.0956,8621.45,80.69,Yuan Renminbi,Marka
+Poland,Zloty,5.55,13.18,4.47,6.8308,9707.82,28.63,Ringgit,Rupiah
+Indonesia,Rupiah,8.38,8.24,5.26,5.4452,471.58,38.27,Yuan Renminbi,Euro
+France,Euro,-3.81,7.63,2.88,8.7822,9927.92,83.43,Peso,Franc
+Colombia,Peso,-8.59,16.07,12.84,1.7797,9745.8,46.31,Rupiah,Yen
+Honduras,Lempira,9.87,12.6,3.2,0.5876,4476.31,67.8,Lempira,Euro
+China,Yuan Renminbi,8.71,7.64,19.0,9.2145,2836.68,77.96,Rupiah,Dollar
+Indonesia,Rupiah,-4.15,7.47,15.37,6.6577,3355.02,25.08,Yuan Renminbi,Rand
+Philippines,Peso,5.58,7.56,13.87,4.8857,3121.43,50.15,Rupiah,Peso
+Belarus,Ruble,6.1,12.29,12.81,0.0219,9063.24,94.58,Krona,Rupiah
+Iran,Rial,3.14,22.22,18.0,1.344,6639.07,16.55,Euro,Euro
+Canada,Dollar,-8.32,6.28,14.8,6.7511,6010.89,44.91,Yuan Renminbi,Yuan Renminbi
+Portugal,Euro,-0.24,20.06,12.15,4.9905,403.1,80.22,Euro,Peso
+Peru,Sol,-0.13,28.58,5.8,0.484,6893.24,33.08,Dollar,Rupiah
+Sweden,Krona,1.83,9.57,3.12,0.4829,1303.46,0.25,Hryvnia,Ruble
+Indonesia,Rupiah,7.23,17.64,9.65,5.776,2360.41,29.7,Yuan Renminbi,Ruble
+United States,Dollar,0.78,3.42,16.31,0.8279,8954.08,97.43,Peso,Won
+Honduras,Lempira,-3.59,14.25,4.55,4.3667,9136.82,60.92,Rupiah,Yuan Renminbi
+Vietnam,Dong,-1.53,29.57,12.91,7.9288,9699.81,44.96,Sol,Peso
+Colombia,Peso,7.71,10.25,17.52,8.9357,9514.08,7.3,Balboa,Yuan Renminbi
+China,Yuan Renminbi,9.34,5.1,13.96,2.0848,6477.42,16.54,Euro,Yuan Renminbi
+Mexico,Peso,4.51,29.08,15.82,8.1451,6334.14,85.3,Franc,Rand
+Bosnia and Herzegovina,Marka,1.39,22.76,5.34,7.3479,8403.88,63.06,Yuan Renminbi,Rupee
+Syria,Pound,-0.99,16.74,6.86,2.8523,4362.94,21.51,Cordoba,Euro
+Poland,Zloty,-5.38,25.55,3.94,5.1574,1480.35,0.89,Ruble,Zloty
+Egypt,Pound,0.87,26.55,0.67,4.222,9075.88,60.04,Rial,Peso
+Madagascar,Ariary,8.72,16.63,13.59,5.5518,4653.21,41.36,Dollar,Rupee
+South Africa,Rand,7.23,8.29,4.89,7.397,2739.67,18.83,Bolivar,Sol
+Latvia,Euro,5.91,16.22,12.09,3.4552,5086.64,57.54,Rupiah,Dram
+Greece,Euro,-4.73,15.7,3.77,1.52,9194.5,20.19,Peso,Ruble
+France,Euro,6.25,23.44,5.76,0.9096,4662.33,39.14,Euro,Tugrik
+Costa Rica,Colon,-4.46,15.96,12.96,6.3591,4577.9,8.61,Naira,Yuan Renminbi
+Vietnam,Dong,-6.01,19.36,8.87,6.8912,7573.48,54.78,Koruna,Rial
+Madagascar,Ariary,-0.51,25.76,10.52,3.3983,2133.47,23.03,Yuan Renminbi,Dinar
+Pakistan,Rupee,5.24,22.53,12.61,3.926,4374.46,47.69,Euro,Euro
+Nigeria,Naira,-8.28,11.06,11.66,8.8001,7461.26,56.31,Pula,Rial
+Ghana,Cedi,-0.25,6.78,3.05,5.8724,2143.03,18.47,Rupiah,Yuan Renminbi
+China,Yuan Renminbi,5.69,16.31,5.53,8.0567,2183.34,90.33,Yuan Renminbi,Euro
+Portugal,Euro,-6.42,24.76,15.63,7.777,6514.21,3.6,Yuan Renminbi,Rupee
+Russia,Ruble,5.7,14.55,11.15,1.5025,863.34,40.55,Yuan Renminbi,Dram
+China,Yuan Renminbi,-4.97,25.99,8.13,2.9431,7738.4,68.84,Tenge,Koruna
+Portugal,Euro,2.08,7.83,3.99,6.1784,9352.5,52.62,Yen,Balboa
+Sweden,Krona,6.98,18.59,11.86,6.9013,664.85,82.26,Zloty,Yuan Renminbi
+Iran,Rial,-8.1,2.19,3.91,8.012,2568.46,87.59,Peso,Peso
+Hungary,Forint,0.71,20.35,17.97,1.6151,2842.95,19.27,Rupiah,Koruna
+Greece,Euro,9.5,10.46,3.1,7.5011,6506.93,0.58,Koruna,Dinar
+Hungary,Forint,9.19,10.37,0.45,7.3596,4652.93,79.25,Euro,Franc
+United States,Dollar,-6.53,6.12,14.7,4.6681,7722.94,0.76,Baht,Ruble
+China,Yuan Renminbi,4.4,23.29,12.88,2.3648,559.93,21.32,Dollar,Real
+Peru,Sol,8.52,5.75,17.82,2.0945,5257.79,39.1,Yuan Renminbi,Rupiah
+Indonesia,Rupiah,-8.93,27.41,12.7,4.5008,5835.19,46.39,Yuan Renminbi,Peso
+Philippines,Peso,7.5,23.32,10.56,5.0663,4042.97,64.72,Real,Yuan Renminbi
+China,Yuan Renminbi,0.5,28.61,15.1,2.7507,3012.63,98.0,Kuna,Yuan Renminbi
+Honduras,Lempira,3.9,12.0,17.41,2.3904,5827.51,20.36,Yuan Renminbi,Denar
+Nigeria,Naira,0.33,0.6,7.77,0.6109,8854.53,11.43,Euro,Yuan Renminbi
+Indonesia,Rupiah,8.07,19.94,4.25,8.913,1450.02,63.51,Ruble,Zloty
+China,Yuan Renminbi,9.76,20.27,12.25,6.7838,7734.82,55.15,Real,Rupiah
+China,Yuan Renminbi,-5.07,7.89,2.49,1.8377,7872.11,75.65,Quetzal,Gourde
+Colombia,Peso,0.69,29.2,9.38,2.9531,2431.68,76.87,Real,Rupiah
+Antigua and Barbuda,Dollar,8.44,23.73,5.16,8.8244,4073.78,39.95,Euro,Dollar
+Thailand,Baht,9.4,19.52,17.44,4.3983,3569.94,82.37,Euro,Dollar
+China,Yuan Renminbi,0.99,25.43,0.76,1.6363,4882.82,66.06,Dinar,Manat
+China,Yuan Renminbi,-6.44,2.63,11.1,1.9054,647.64,56.77,Kwacha,Boliviano
+China,Yuan Renminbi,0.83,26.82,13.4,3.3731,8019.3,98.37,Peso,Dirham
+China,Yuan Renminbi,6.68,10.52,14.42,7.7755,4828.32,34.11,Dong,Rupiah
+Indonesia,Rupiah,3.67,14.33,4.18,9.0131,6202.84,49.45,Dollar,Real
+Russia,Ruble,-0.26,8.71,0.29,4.7167,4729.37,14.14,Yuan Renminbi,Zloty
+Poland,Zloty,-8.95,20.93,15.38,6.7266,6505.71,92.16,Ruble,Rupiah
+Brazil,Real,-0.57,13.62,5.32,9.7839,1057.44,91.55,Ruble,Euro
+China,Yuan Renminbi,0.34,23.84,15.12,4.7545,2175.95,2.48,Yuan Renminbi,Zloty
+Poland,Zloty,-3.33,4.3,11.43,9.5997,4272.6,26.09,Somoni,Ruble
+France,Euro,9.32,1.85,15.99,9.5253,5082.06,77.17,Peso,Yuan Renminbi
+Indonesia,Rupiah,-4.98,23.1,5.79,7.1729,505.67,43.61,Euro,Ruble
+Indonesia,Rupiah,7.02,9.0,2.26,5.8946,4711.47,10.26,Dollar,Yuan Renminbi
+Dominican Republic,Peso,-5.46,6.63,5.77,2.2132,7820.52,22.89,Hryvnia,Yuan Renminbi
+Kazakhstan,Tenge,-7.38,24.67,2.42,0.382,7067.28,31.61,Yuan Renminbi,Dong
+Guatemala,Quetzal,0.02,5.36,11.62,0.1548,3177.91,91.01,Dollar,Dinar
+Vietnam,Dong,5.39,21.23,8.98,6.2054,6083.04,18.38,Yuan Renminbi,Euro
+China,Yuan Renminbi,-5.22,11.37,18.32,9.234,1980.79,27.97,Euro,Kuna
+China,Yuan Renminbi,3.67,14.28,5.88,7.4837,5852.46,75.47,Hryvnia,Sol
+Cambodia,Riels,-2.12,7.75,5.59,7.5643,6862.02,88.73,Yuan Renminbi,Rupiah
+Norway,Krone,-8.74,1.25,12.39,4.5881,8678.48,38.15,Ruble,Peso
+China,Yuan Renminbi,7.36,7.16,11.25,2.312,4378.18,27.78,Dollar,Ruble
+Indonesia,Rupiah,-5.13,22.55,15.99,9.4016,4217.63,65.86,Peso,Ruble
+Japan,Yen,-1.67,16.75,1.71,9.0776,2474.6,27.71,Dong,Yuan Renminbi
+Indonesia,Rupiah,-7.87,10.49,1.1,3.5234,5692.31,99.96,Yuan Renminbi,Peso
+Peru,Sol,-5.15,13.1,12.14,2.3219,8505.24,47.56,Yuan Renminbi,Rupiah
+Russia,Ruble,3.18,13.29,0.68,3.9906,7866.61,83.76,Rupee,Zloty
+Thailand,Baht,2.35,29.46,2.03,0.7091,7995.97,37.01,Ruble,Dollar
+Russia,Ruble,7.29,24.16,15.72,3.9838,682.72,99.84,Yuan Renminbi,Yuan Renminbi
+Marshall Islands,Dollar,5.27,2.0,18.44,1.8733,3036.31,57.84,Rupiah,Euro
+Ukraine,Hryvnia,-1.46,0.18,12.83,0.9639,6373.52,20.61,Bolivar,Dollar
+Czech Republic,Koruna,7.7,16.76,12.26,0.1136,5821.78,19.25,Euro,Ruble
+Brazil,Real,3.15,11.31,17.84,6.5561,940.01,67.34,Peso,Kwacha
+China,Yuan Renminbi,-2.18,17.87,17.58,2.4482,3402.68,0.57,Yuan Renminbi,Yuan Renminbi
+El Salvador,Dollar,-3.74,29.22,12.35,1.8393,6426.63,83.13,Koruna,Yuan Renminbi
+Portugal,Euro,3.95,21.37,2.29,5.7329,5696.45,30.05,Zloty,Koruna
+Argentina,Peso,6.02,14.34,15.6,8.1291,6666.61,40.68,Koruna,Euro
+Peru,Sol,5.41,22.96,14.33,8.7637,643.32,84.06,Real,Peso
+China,Yuan Renminbi,3.5,8.94,7.29,4.8399,879.25,8.72,Ariary,Yuan Renminbi
+Japan,Yen,0.79,10.93,17.41,3.567,9313.57,47.87,Koruna,Afghani
+Portugal,Euro,7.91,11.65,4.8,6.8488,6459.58,6.55,Baht,Lempira
+Portugal,Euro,2.71,24.79,7.26,7.0973,1492.69,55.9,Shekel,Yuan Renminbi
+Morocco,Dirham,-3.28,2.83,18.08,4.5727,5849.03,83.86,Rupiah,Peso
+Guatemala,Quetzal,4.47,11.12,9.68,3.2624,3535.01,18.13,Yuan Renminbi,Dollar
